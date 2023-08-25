@@ -3,6 +3,7 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+
 const organizationName = "scs-cdh";
 const projectName = "documentation";
 
@@ -16,7 +17,7 @@ const config = {
   url: `https://${organizationName}.github.io`,
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl = /${projectName}/`,
+  baseUrl = `/${projectName}/`,
 
   // GitHub pages deployment config.
   organizationName,
