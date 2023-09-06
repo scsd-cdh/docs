@@ -7,10 +7,10 @@ export default {
   "title": "SCS-CDH",
   "tagline": "Crafting software for CubeSat missions 🛰️",
   "favicon": "img/logo.png",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "url": "https://scs-cdh.github.io",
+  "baseUrl": "/documentation/",
+  "organizationName": "scs-cdh",
+  "projectName": "documentation",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -26,15 +26,15 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/malek/Documents/prog/scs-cdh/documentation/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "/home/facilities/Repos/scs-cdh/documentation/sidebars.js",
+          "editUrl": "https://github.com/scs-cdh/documentation/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/scs-cdh/documentation/tree/main/"
         },
         "theme": {
-          "customCss": "/Users/malek/Documents/prog/scs-cdh/documentation/src/css/custom.css"
+          "customCss": "/home/facilities/Repos/scs-cdh/documentation/src/css/custom.css"
         }
       }
     ]

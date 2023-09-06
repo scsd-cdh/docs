@@ -1,6 +1,6 @@
 {
   "type": "mdx",
-  "permalink": "/my-markdown-page",
+  "permalink": "/documentation/my-markdown-page",
   "source": "@site/src/pages/my-markdown-page.md",
   "title": "My markdown page",
   "description": "Subtitle",

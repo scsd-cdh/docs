@@ -1,261 +1,269 @@
 {
-  "/__docusaurus/debug-595": {
+  "/documentation/__docusaurus/debug-1d7": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-57-b-e1b"
+      "plugin": "plugin---documentation-docusaurus-debug-15-a-d26"
     }
   },
-  "/__docusaurus/debug/config-876": {
+  "/documentation/__docusaurus/debug/config-14c": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-57-b-e1b"
+      "plugin": "plugin---documentation-docusaurus-debug-15-a-d26"
     }
   },
-  "/__docusaurus/debug/content-c45": {
+  "/documentation/__docusaurus/debug/content-3cc": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-57-b-e1b"
+      "plugin": "plugin---documentation-docusaurus-debug-15-a-d26"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "allContent": "allContent---documentation-docusaurus-debug-content-246-1fc"
   },
-  "/__docusaurus/debug/globalData-5ae": {
+  "/documentation/__docusaurus/debug/globalData-151": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-57-b-e1b"
+      "plugin": "plugin---documentation-docusaurus-debug-15-a-d26"
     }
   },
-  "/__docusaurus/debug/metadata-97c": {
+  "/documentation/__docusaurus/debug/metadata-703": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-57-b-e1b"
+      "plugin": "plugin---documentation-docusaurus-debug-15-a-d26"
     }
   },
-  "/__docusaurus/debug/registry-d44": {
+  "/documentation/__docusaurus/debug/registry-831": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-57-b-e1b"
+      "plugin": "plugin---documentation-docusaurus-debug-15-a-d26"
     }
   },
-  "/__docusaurus/debug/routes-942": {
+  "/documentation/__docusaurus/debug/routes-949": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-57-b-e1b"
+      "plugin": "plugin---documentation-docusaurus-debug-15-a-d26"
     }
   },
-  "/blog-38c": {
+  "/documentation/blog-d81": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---bloge-13-1a7"
+      "plugin": "plugin---documentation-blog-23-f-1e2"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---documentation-blog-814-bc6",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---documentation-blog-766-b7c"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---documentation-blogf-4-f-d91"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---documentation-blog-871-8ad"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---documentation-blog-925-287"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "metadata---documentation-blog-14-e-a5c"
   },
-  "/blog/archive-694": {
+  "/documentation/blog/archive-58e": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---bloge-13-1a7"
+      "plugin": "plugin---documentation-blog-23-f-1e2"
     },
-    "archive": "archive---blog-archiveb-2-f-393"
+    "archive": "archive---documentation-blog-archiveeda-964"
   },
-  "/blog/first-blog-post-978": {
+  "/documentation/blog/first-blog-post-198": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---bloge-13-1a7"
+      "plugin": "plugin---documentation-blog-23-f-1e2"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-first-blog-poste-27-4a1"
+    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "content": "content---documentation-blog-first-blog-poste-27-d09"
   },
-  "/blog/long-blog-post-fa5": {
+  "/documentation/blog/long-blog-post-fd9": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---bloge-13-1a7"
+      "plugin": "plugin---documentation-blog-23-f-1e2"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-long-blog-post-736-bc7"
+    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "content": "content---documentation-blog-long-blog-post-736-0f6"
   },
-  "/blog/mdx-blog-post-e12": {
+  "/documentation/blog/mdx-blog-post-406": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---bloge-13-1a7"
+      "plugin": "plugin---documentation-blog-23-f-1e2"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-mdx-blog-post-593-37b"
+    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "content": "content---documentation-blog-mdx-blog-post-593-1de"
   },
-  "/blog/tags-294": {
+  "/documentation/blog/tags-f4a": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---bloge-13-1a7"
+      "plugin": "plugin---documentation-blog-23-f-1e2"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
+    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "tags": "tags---documentation-blog-tags-673-362"
   },
-  "/blog/tags/docusaurus-2f5": {
+  "/documentation/blog/tags/docusaurus-700": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---bloge-13-1a7"
+      "plugin": "plugin---documentation-blog-23-f-1e2"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---documentation-blog-814-bc6",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---documentation-blog-766-b7c"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---documentation-blogf-4-f-d91"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---documentation-blog-871-8ad"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---documentation-blog-925-287"
       }
     ],
-    "tag": "tag---blog-tags-docusaurusa-80-728",
-    "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
+    "tag": "tag---documentation-blog-tags-docusaurus-911-3a9",
+    "listMetadata": "listMetadata---documentation-blog-tags-docusaurusb-53-274"
   },
-  "/blog/tags/facebook-5b2": {
+  "/documentation/blog/tags/facebook-143": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---bloge-13-1a7"
+      "plugin": "plugin---documentation-blog-23-f-1e2"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---documentation-blog-814-bc6",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---documentation-blog-766-b7c"
       }
     ],
-    "tag": "tag---blog-tags-facebook-031-c52",
-    "listMetadata": "listMetadata---blog-tags-facebook-096-d31"
+    "tag": "tag---documentation-blog-tags-facebookde-8-e67",
+    "listMetadata": "listMetadata---documentation-blog-tags-facebook-84-f-518"
   },
-  "/blog/tags/hello-ec5": {
+  "/documentation/blog/tags/hello-646": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---bloge-13-1a7"
+      "plugin": "plugin---documentation-blog-23-f-1e2"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---documentation-blog-814-bc6",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---documentation-blog-766-b7c"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---documentation-blog-871-8ad"
       }
     ],
-    "tag": "tag---blog-tags-hello-30-a-bed",
-    "listMetadata": "listMetadata---blog-tags-hello-664-70a"
+    "tag": "tag---documentation-blog-tags-hello-6-a-7-056",
+    "listMetadata": "listMetadata---documentation-blog-tags-hello-3-c-8-390"
   },
-  "/blog/tags/hola-679": {
+  "/documentation/blog/tags/hola-2dd": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---bloge-13-1a7"
+      "plugin": "plugin---documentation-blog-23-f-1e2"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---documentation-blog-814-bc6",
     "items": [
       {
-        "content": "content---blog-925-e00"
+        "content": "content---documentation-blog-925-287"
       }
     ],
-    "tag": "tag---blog-tags-holae-16-18a",
-    "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
+    "tag": "tag---documentation-blog-tags-hola-21-a-013",
+    "listMetadata": "listMetadata---documentation-blog-tags-hola-4-b-4-dfd"
   },
-  "/blog/welcome-59b": {
+  "/documentation/blog/welcome-91b": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---bloge-13-1a7"
+      "plugin": "plugin---documentation-blog-23-f-1e2"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcomed-9-f-ffb"
+    "sidebar": "sidebar---documentation-blog-814-bc6",
+    "content": "content---documentation-blog-welcomed-9-f-7d3"
   },
-  "/markdown-page-b55": {
+  "/documentation/markdown-page-fbc": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-page-8-c-6-776"
+      "plugin": "plugin---documentation-markdown-pagec-99-562"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "content---documentation-markdown-page-393-bce"
   },
-  "/my-markdown-page-645": {
+  "/documentation/my-markdown-page-982": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-page-8-c-6-776"
+      "plugin": "plugin---documentation-markdown-pagec-99-562"
     },
-    "content": "content---my-markdown-page-031-4dc"
+    "content": "content---documentation-my-markdown-page-031-851"
   },
-  "/my-react-page-2a3": {
+  "/documentation/my-react-page-47a": {
     "__comp": "__comp---site-src-pages-my-react-page-jsxfde-b9f",
     "__context": {
-      "plugin": "plugin---markdown-page-8-c-6-776"
+      "plugin": "plugin---documentation-markdown-pagec-99-562"
     },
-    "config": "config---my-react-page-5-e-9-dcc"
+    "config": "config---documentation-my-react-page-5-e-9-b5b"
   },
-  "/docs-740": {
+  "/documentation/docs-8b8": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---docsb-53-182"
+      "plugin": "plugin---documentation-docs-474-fe9"
     },
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "versionMetadata---documentation-docs-935-d3e"
   },
-  "/docs/category/tutorial---basics-d44": {
+  "/documentation/docs/category/getting-started-76f": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-basicsea-8-8c8"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-getting-startedfdd-539"
   },
-  "/docs/category/tutorial---extras-f09": {
+  "/documentation/docs/category/tutorial---basics-d10": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-tutorial-basicse-78-eff"
   },
-  "/docs/intro-aed": {
+  "/documentation/docs/category/tutorial---extras-870": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-tutorial-extras-8-f-0-fcc"
+  },
+  "/documentation/docs/getting-started/alire-2ea": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "content": "content---documentation-docs-getting-started-aliree-90-318"
   },
-  "/docs/tutorial-basics/congratulations-793": {
+  "/documentation/docs/intro-9e8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
+    "content": "content---documentation-docs-intro-0-e-3-1d3"
   },
-  "/docs/tutorial-basics/create-a-blog-post-68e": {
+  "/documentation/docs/tutorial-basics/congratulations-54c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
+    "content": "content---documentation-docs-tutorial-basics-congratulations-822-129"
   },
-  "/docs/tutorial-basics/create-a-document-c2d": {
+  "/documentation/docs/tutorial-basics/create-a-blog-post-c06": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
+    "content": "content---documentation-docs-tutorial-basics-create-a-blog-post-533-e27"
   },
-  "/docs/tutorial-basics/create-a-page-f44": {
+  "/documentation/docs/tutorial-basics/create-a-document-a1f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
+    "content": "content---documentation-docs-tutorial-basics-create-a-document-1-e-4-fc8"
   },
-  "/docs/tutorial-basics/deploy-your-site-e46": {
+  "/documentation/docs/tutorial-basics/create-a-page-464": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
+    "content": "content---documentation-docs-tutorial-basics-create-a-page-5-c-8-5ac"
   },
-  "/docs/tutorial-basics/markdown-features-4b7": {
+  "/documentation/docs/tutorial-basics/deploy-your-site-82a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
+    "content": "content---documentation-docs-tutorial-basics-deploy-your-sitef-55-887"
   },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
+  "/documentation/docs/tutorial-basics/markdown-features-0b6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
+    "content": "content---documentation-docs-tutorial-basics-markdown-features-18-c-032"
   },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
+  "/documentation/docs/tutorial-extras/manage-docs-versions-0d0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+    "content": "content---documentation-docs-tutorial-extras-manage-docs-versionsdff-895"
   },
-  "/-d98": {
+  "/documentation/docs/tutorial-extras/translate-your-site-4d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tutorial-extras-translate-your-sitee-44-8aa"
+  },
+  "/documentation/-913": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---markdown-page-8-c-6-776"
+      "plugin": "plugin---documentation-markdown-pagec-99-562"
     },
-    "config": "config---my-react-page-5-e-9-dcc"
+    "config": "config---documentation-my-react-page-5-e-9-b5b"
   }
 }
