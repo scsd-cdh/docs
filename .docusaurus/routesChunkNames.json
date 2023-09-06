@@ -200,7 +200,7 @@
     },
     "config": "config---documentation-my-react-page-5-e-9-b5b"
   },
-  "/documentation/docs-8b8": {
+  "/documentation/docs-a98": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---documentation-docs-474-fe9"
@@ -211,53 +211,9 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-getting-startedfdd-539"
   },
-  "/documentation/docs/category/tutorial---basics-d10": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-tutorial-basicse-78-eff"
-  },
-  "/documentation/docs/category/tutorial---extras-870": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-tutorial-extras-8-f-0-fcc"
-  },
   "/documentation/docs/getting-started/alire-2ea": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-docs-getting-started-aliree-90-318"
-  },
-  "/documentation/docs/intro-9e8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-intro-0-e-3-1d3"
-  },
-  "/documentation/docs/tutorial-basics/congratulations-54c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tutorial-basics-congratulations-822-129"
-  },
-  "/documentation/docs/tutorial-basics/create-a-blog-post-c06": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tutorial-basics-create-a-blog-post-533-e27"
-  },
-  "/documentation/docs/tutorial-basics/create-a-document-a1f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tutorial-basics-create-a-document-1-e-4-fc8"
-  },
-  "/documentation/docs/tutorial-basics/create-a-page-464": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tutorial-basics-create-a-page-5-c-8-5ac"
-  },
-  "/documentation/docs/tutorial-basics/deploy-your-site-82a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tutorial-basics-deploy-your-sitef-55-887"
-  },
-  "/documentation/docs/tutorial-basics/markdown-features-0b6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tutorial-basics-markdown-features-18-c-032"
-  },
-  "/documentation/docs/tutorial-extras/manage-docs-versions-0d0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tutorial-extras-manage-docs-versionsdff-895"
-  },
-  "/documentation/docs/tutorial-extras/translate-your-site-4d8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tutorial-extras-translate-your-sitee-44-8aa"
   },
   "/documentation/-913": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
