@@ -109,11 +109,35 @@ export default [
   },
   {
     path: '/documentation/docs',
-    component: ComponentCreator('/documentation/docs', 'ee5'),
+    component: ComponentCreator('/documentation/docs', 'b88'),
     routes: [
+      {
+        path: '/documentation/docs/category/astrocore-utilities',
+        component: ComponentCreator('/documentation/docs/category/astrocore-utilities', 'cd8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/documentation/docs/category/getting-started',
         component: ComponentCreator('/documentation/docs/category/getting-started', '76f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/category/high-level-architecture',
+        component: ComponentCreator('/documentation/docs/category/high-level-architecture', '4f2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/category/low-level-architecture',
+        component: ComponentCreator('/documentation/docs/category/low-level-architecture', '357'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/category/supported-boards',
+        component: ComponentCreator('/documentation/docs/category/supported-boards', 'd34'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -126,6 +150,72 @@ export default [
       {
         path: '/documentation/docs/getting-started/renode',
         component: ComponentCreator('/documentation/docs/getting-started/renode', '563'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/high-level-architecture/intro',
+        component: ComponentCreator('/documentation/docs/high-level-architecture/intro', '1b2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/intro',
+        component: ComponentCreator('/documentation/docs/intro', '9e8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/low-level-architecture/bsp',
+        component: ComponentCreator('/documentation/docs/low-level-architecture/bsp', '759'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/low-level-architecture/drivers',
+        component: ComponentCreator('/documentation/docs/low-level-architecture/drivers', 'a2f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/low-level-architecture/hal',
+        component: ComponentCreator('/documentation/docs/low-level-architecture/hal', 'ece'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/low-level-architecture/intro',
+        component: ComponentCreator('/documentation/docs/low-level-architecture/intro', '72d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/low-level-architecture/middleware',
+        component: ComponentCreator('/documentation/docs/low-level-architecture/middleware', 'd87'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/low-level-architecture/serial',
+        component: ComponentCreator('/documentation/docs/low-level-architecture/serial', '70c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/low-level-architecture/svd',
+        component: ComponentCreator('/documentation/docs/low-level-architecture/svd', '5a0'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/supported-boards/intro',
+        component: ComponentCreator('/documentation/docs/supported-boards/intro', '09d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/tools/intro',
+        component: ComponentCreator('/documentation/docs/tools/intro', '368'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

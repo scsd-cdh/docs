@@ -200,16 +200,32 @@
     },
     "config": "config---documentation-my-react-page-5-e-9-b5b"
   },
-  "/documentation/docs-ee5": {
+  "/documentation/docs-b88": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---documentation-docs-5-fa-58d"
     },
     "versionMetadata": "versionMetadata---documentation-docs-935-d3e"
   },
+  "/documentation/docs/category/astrocore-utilities-cd8": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-astrocore-utilitiesb-40-02e"
+  },
   "/documentation/docs/category/getting-started-76f": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-getting-startedfdd-539"
+  },
+  "/documentation/docs/category/high-level-architecture-4f2": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-high-level-architecturefa-5-6f0"
+  },
+  "/documentation/docs/category/low-level-architecture-357": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-low-level-architecture-837-18c"
+  },
+  "/documentation/docs/category/supported-boards-d34": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-supported-boards-7-eb-cba"
   },
   "/documentation/docs/getting-started/alire-2ea": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -218,6 +234,50 @@
   "/documentation/docs/getting-started/renode-563": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-docs-getting-started-renodeac-0-c5e"
+  },
+  "/documentation/docs/high-level-architecture/intro-1b2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-high-level-architecture-introa-3-b-05c"
+  },
+  "/documentation/docs/intro-9e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-intro-0-e-3-1d3"
+  },
+  "/documentation/docs/low-level-architecture/bsp-759": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-low-level-architecture-bsp-49-b-001"
+  },
+  "/documentation/docs/low-level-architecture/drivers-a2f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-low-level-architecture-drivers-138-2d0"
+  },
+  "/documentation/docs/low-level-architecture/hal-ece": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-low-level-architecture-hal-942-c22"
+  },
+  "/documentation/docs/low-level-architecture/intro-72d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-low-level-architecture-intro-1-e-4-92e"
+  },
+  "/documentation/docs/low-level-architecture/middleware-d87": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-low-level-architecture-middleware-780-3fd"
+  },
+  "/documentation/docs/low-level-architecture/serial-70c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-low-level-architecture-serial-633-3b8"
+  },
+  "/documentation/docs/low-level-architecture/svd-5a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-low-level-architecture-svdf-7-f-e69"
+  },
+  "/documentation/docs/supported-boards/intro-09d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-supported-boards-intro-4-fb-726"
+  },
+  "/documentation/docs/tools/intro-368": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-tools-intro-7-a-3-d18"
   },
   "/documentation/-ef1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

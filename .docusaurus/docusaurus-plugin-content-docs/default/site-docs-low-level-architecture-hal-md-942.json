@@ -1,0 +1,29 @@
+{
+  "unversionedId": "low-level-architecture/hal",
+  "id": "low-level-architecture/hal",
+  "title": "Hardware Abstraction Layer",
+  "description": "Implementation of HALs.",
+  "source": "@site/docs/low-level-architecture/hal.md",
+  "sourceDirName": "low-level-architecture",
+  "slug": "/low-level-architecture/hal",
+  "permalink": "/documentation/docs/low-level-architecture/hal",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/hal.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Hardware Abstraction Layer",
+    "description": "Implementation of HALs.",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Board Support Packages",
+    "permalink": "/documentation/docs/low-level-architecture/bsp"
+  },
+  "next": {
+    "title": "SVD Bindings",
+    "permalink": "/documentation/docs/low-level-architecture/svd"
+  }
+}

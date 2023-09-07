@@ -1,3 +1,7 @@
+---
+description: How to use and install Renode for emulating boards.
+---
+
 # Renode
 
 ## Introduction

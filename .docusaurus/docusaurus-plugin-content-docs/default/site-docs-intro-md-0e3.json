@@ -1,27 +1,24 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "Introduction",
+  "description": "This documentation section will serve to explain the following:",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
   "permalink": "/documentation/docs/intro",
   "draft": false,
-  "editUrl": "https://github.com/scs-cdh/documentation/tree/main/docs/intro.md",
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 1,
+    "sidebar_label": "Introduction"
   },
   "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Alire",
-    "permalink": "/documentation/docs/getting-started/alire"
-  },
   "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/documentation/docs/category/tutorial---basics"
+    "title": "Getting Started",
+    "permalink": "/documentation/docs/category/getting-started"
   }
 }

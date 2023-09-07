@@ -1,0 +1,25 @@
+{
+  "unversionedId": "getting-started/renode",
+  "id": "getting-started/renode",
+  "title": "Renode",
+  "description": "Introduction",
+  "source": "@site/docs/getting-started/02-renode.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/renode",
+  "permalink": "/documentation/docs/getting-started/renode",
+  "draft": false,
+  "editUrl": "https://github.com/scs-cdh/documentation/tree/main/docs/getting-started/02-renode.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/documentation/docs/category/getting-started"
+  },
+  "next": {
+    "title": "Alire",
+    "permalink": "/documentation/docs/getting-started/alire"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "AstroCore Utilities",
+  "slug": "/category/astrocore-utilities",
+  "permalink": "/documentation/docs/category/astrocore-utilities",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/documentation/docs/supported-boards/intro"
+    },
+    "next": {
+      "title": "Introduction",
+      "permalink": "/documentation/docs/tools/intro"
+    }
+  }
+}

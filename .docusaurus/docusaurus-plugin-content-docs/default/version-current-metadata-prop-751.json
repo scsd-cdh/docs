@@ -10,6 +10,12 @@
   "docsSidebars": {
     "tutorialSidebar": [
       {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/documentation/docs/intro",
+        "docId": "intro"
+      },
+      {
         "type": "category",
         "label": "Getting Started",
         "collapsible": true,
@@ -29,6 +35,105 @@
           }
         ],
         "href": "/documentation/docs/category/getting-started"
+      },
+      {
+        "type": "category",
+        "label": "Low-Level Architecture",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/documentation/docs/low-level-architecture/intro",
+            "docId": "low-level-architecture/intro"
+          },
+          {
+            "type": "link",
+            "label": "Board Support Packages",
+            "href": "/documentation/docs/low-level-architecture/bsp",
+            "docId": "low-level-architecture/bsp"
+          },
+          {
+            "type": "link",
+            "label": "Hardware Abstraction Layer",
+            "href": "/documentation/docs/low-level-architecture/hal",
+            "docId": "low-level-architecture/hal"
+          },
+          {
+            "type": "link",
+            "label": "SVD Bindings",
+            "href": "/documentation/docs/low-level-architecture/svd",
+            "docId": "low-level-architecture/svd"
+          },
+          {
+            "type": "link",
+            "label": "Middleware",
+            "href": "/documentation/docs/low-level-architecture/middleware",
+            "docId": "low-level-architecture/middleware"
+          },
+          {
+            "type": "link",
+            "label": "Serial Communication Drivers",
+            "href": "/documentation/docs/low-level-architecture/serial",
+            "docId": "low-level-architecture/serial"
+          },
+          {
+            "type": "link",
+            "label": "Component Drivers",
+            "href": "/documentation/docs/low-level-architecture/drivers",
+            "docId": "low-level-architecture/drivers"
+          }
+        ],
+        "href": "/documentation/docs/category/low-level-architecture"
+      },
+      {
+        "type": "category",
+        "label": "High-Level Architecture",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/documentation/docs/high-level-architecture/intro",
+            "docId": "high-level-architecture/intro"
+          }
+        ],
+        "href": "/documentation/docs/category/high-level-architecture"
+      },
+      {
+        "type": "category",
+        "label": "Supported Boards",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/documentation/docs/supported-boards/intro",
+            "docId": "supported-boards/intro"
+          }
+        ],
+        "href": "/documentation/docs/category/supported-boards"
+      },
+      {
+        "type": "category",
+        "label": "AstroCore Utilities",
+        "collapsible": true,
+        "collapsed": true,
+        "customProps": {
+          "description": "Test description"
+        },
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/documentation/docs/tools/intro",
+            "docId": "tools/intro"
+          }
+        ],
+        "href": "/documentation/docs/category/astrocore-utilities"
       }
     ]
   },
@@ -36,13 +141,79 @@
     "getting-started/alire": {
       "id": "getting-started/alire",
       "title": "Alire",
-      "description": "Alire serves as a package manager tailored for the Ada and SPARK programming languages.",
+      "description": "How to install and use the Alire package manager.",
       "sidebar": "tutorialSidebar"
     },
     "getting-started/renode": {
       "id": "getting-started/renode",
       "title": "Renode",
-      "description": "Introduction",
+      "description": "How to use and install Renode for emulating boards.",
+      "sidebar": "tutorialSidebar"
+    },
+    "high-level-architecture/intro": {
+      "id": "high-level-architecture/intro",
+      "title": "Introduction",
+      "description": "Overall architecture of the low-level implementation.",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Introduction",
+      "description": "This documentation section will serve to explain the following:",
+      "sidebar": "tutorialSidebar"
+    },
+    "low-level-architecture/bsp": {
+      "id": "low-level-architecture/bsp",
+      "title": "Board Support Packages",
+      "description": "Implementation of BSPs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "low-level-architecture/drivers": {
+      "id": "low-level-architecture/drivers",
+      "title": "Component Drivers",
+      "description": "Implementation of Component Drivers.",
+      "sidebar": "tutorialSidebar"
+    },
+    "low-level-architecture/hal": {
+      "id": "low-level-architecture/hal",
+      "title": "Hardware Abstraction Layer",
+      "description": "Implementation of HALs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "low-level-architecture/intro": {
+      "id": "low-level-architecture/intro",
+      "title": "Introduction",
+      "description": "Overall architecture of the low-level implementation.",
+      "sidebar": "tutorialSidebar"
+    },
+    "low-level-architecture/middleware": {
+      "id": "low-level-architecture/middleware",
+      "title": "Middleware",
+      "description": "Implementation of the middleware.",
+      "sidebar": "tutorialSidebar"
+    },
+    "low-level-architecture/serial": {
+      "id": "low-level-architecture/serial",
+      "title": "Serial Communication Drivers",
+      "description": "Implementation of Serial Communication Drivers.",
+      "sidebar": "tutorialSidebar"
+    },
+    "low-level-architecture/svd": {
+      "id": "low-level-architecture/svd",
+      "title": "SVD Bindings",
+      "description": "Implementation of SVD Bindings.",
+      "sidebar": "tutorialSidebar"
+    },
+    "supported-boards/intro": {
+      "id": "supported-boards/intro",
+      "title": "Introduction",
+      "description": "Overall architecture of the low-level implementation.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/intro": {
+      "id": "tools/intro",
+      "title": "Introduction",
+      "description": "Overall architecture of the low-level implementation.",
       "sidebar": "tutorialSidebar"
     }
   }

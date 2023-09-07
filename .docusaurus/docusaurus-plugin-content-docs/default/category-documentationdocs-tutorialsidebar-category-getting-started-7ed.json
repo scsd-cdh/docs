@@ -3,6 +3,10 @@
   "slug": "/category/getting-started",
   "permalink": "/documentation/docs/category/getting-started",
   "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/documentation/docs/intro"
+    },
     "next": {
       "title": "Alire",
       "permalink": "/documentation/docs/getting-started/alire"

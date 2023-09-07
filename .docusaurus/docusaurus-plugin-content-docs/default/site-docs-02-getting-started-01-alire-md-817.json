@@ -1,0 +1,25 @@
+{
+  "unversionedId": "getting-started/alire",
+  "id": "getting-started/alire",
+  "title": "Alire",
+  "description": "Alire serves as a package manager tailored for the Ada and SPARK programming languages.",
+  "source": "@site/docs/02-getting-started/01-alire.md",
+  "sourceDirName": "02-getting-started",
+  "slug": "/getting-started/alire",
+  "permalink": "/documentation/docs/getting-started/alire",
+  "draft": false,
+  "editUrl": "https://github.com/scs-cdh/documentation/tree/main/docs/02-getting-started/01-alire.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/documentation/docs/category/getting-started"
+  },
+  "next": {
+    "title": "Renode",
+    "permalink": "/documentation/docs/getting-started/renode"
+  }
+}

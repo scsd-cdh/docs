@@ -1,0 +1,29 @@
+{
+  "unversionedId": "high-level-architecture/intro",
+  "id": "high-level-architecture/intro",
+  "title": "Introduction",
+  "description": "Overall architecture of the low-level implementation.",
+  "source": "@site/docs/high-level-architecture/intro.md",
+  "sourceDirName": "high-level-architecture",
+  "slug": "/high-level-architecture/intro",
+  "permalink": "/documentation/docs/high-level-architecture/intro",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "description": "Overall architecture of the low-level implementation.",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "High-Level Architecture",
+    "permalink": "/documentation/docs/category/high-level-architecture"
+  },
+  "next": {
+    "title": "Supported Boards",
+    "permalink": "/documentation/docs/category/supported-boards"
+  }
+}

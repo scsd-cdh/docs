@@ -1,0 +1,29 @@
+{
+  "unversionedId": "low-level-architecture/svd",
+  "id": "low-level-architecture/svd",
+  "title": "SVD Bindings",
+  "description": "Implementation of SVD Bindings.",
+  "source": "@site/docs/low-level-architecture/svd.md",
+  "sourceDirName": "low-level-architecture",
+  "slug": "/low-level-architecture/svd",
+  "permalink": "/documentation/docs/low-level-architecture/svd",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/svd.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "SVD Bindings",
+    "description": "Implementation of SVD Bindings.",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hardware Abstraction Layer",
+    "permalink": "/documentation/docs/low-level-architecture/hal"
+  },
+  "next": {
+    "title": "Middleware",
+    "permalink": "/documentation/docs/low-level-architecture/middleware"
+  }
+}

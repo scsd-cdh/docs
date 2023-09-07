@@ -1,0 +1,15 @@
+{
+  "title": "High-Level Architecture",
+  "slug": "/category/high-level-architecture",
+  "permalink": "/documentation/docs/category/high-level-architecture",
+  "navigation": {
+    "previous": {
+      "title": "Component Drivers",
+      "permalink": "/documentation/docs/low-level-architecture/drivers"
+    },
+    "next": {
+      "title": "Introduction",
+      "permalink": "/documentation/docs/high-level-architecture/intro"
+    }
+  }
+}

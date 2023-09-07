@@ -1,0 +1,29 @@
+{
+  "unversionedId": "low-level-architecture/middleware",
+  "id": "low-level-architecture/middleware",
+  "title": "Middleware",
+  "description": "Implementation of the middleware.",
+  "source": "@site/docs/low-level-architecture/middleware.md",
+  "sourceDirName": "low-level-architecture",
+  "slug": "/low-level-architecture/middleware",
+  "permalink": "/documentation/docs/low-level-architecture/middleware",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/middleware.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Middleware",
+    "description": "Implementation of the middleware.",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SVD Bindings",
+    "permalink": "/documentation/docs/low-level-architecture/svd"
+  },
+  "next": {
+    "title": "Serial Communication Drivers",
+    "permalink": "/documentation/docs/low-level-architecture/serial"
+  }
+}

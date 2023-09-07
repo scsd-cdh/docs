@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/documentation/docs",
-          "mainDocId": "getting-started/alire",
+          "mainDocId": "intro",
           "docs": [
             {
               "id": "getting-started/alire",
@@ -21,8 +21,83 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "high-level-architecture/intro",
+              "path": "/documentation/docs/high-level-architecture/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/documentation/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "low-level-architecture/bsp",
+              "path": "/documentation/docs/low-level-architecture/bsp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "low-level-architecture/drivers",
+              "path": "/documentation/docs/low-level-architecture/drivers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "low-level-architecture/hal",
+              "path": "/documentation/docs/low-level-architecture/hal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "low-level-architecture/intro",
+              "path": "/documentation/docs/low-level-architecture/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "low-level-architecture/middleware",
+              "path": "/documentation/docs/low-level-architecture/middleware",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "low-level-architecture/serial",
+              "path": "/documentation/docs/low-level-architecture/serial",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "low-level-architecture/svd",
+              "path": "/documentation/docs/low-level-architecture/svd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "supported-boards/intro",
+              "path": "/documentation/docs/supported-boards/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/intro",
+              "path": "/documentation/docs/tools/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/getting-started",
               "path": "/documentation/docs/category/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/low-level-architecture",
+              "path": "/documentation/docs/category/low-level-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/high-level-architecture",
+              "path": "/documentation/docs/category/high-level-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/supported-boards",
+              "path": "/documentation/docs/category/supported-boards",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/astrocore-utilities",
+              "path": "/documentation/docs/category/astrocore-utilities",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -30,8 +105,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/documentation/docs/category/getting-started",
-                "label": "Getting Started"
+                "path": "/documentation/docs/intro",
+                "label": "Introduction"
               }
             }
           }

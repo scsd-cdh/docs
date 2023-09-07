@@ -1,0 +1,11 @@
+{
+  "title": "test title",
+  "slug": "/category/getting-started",
+  "permalink": "/documentation/docs/category/getting-started",
+  "navigation": {
+    "next": {
+      "title": "Alire",
+      "permalink": "/documentation/docs/getting-started/alire"
+    }
+  }
+}

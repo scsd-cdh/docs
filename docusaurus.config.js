@@ -4,12 +4,12 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const organizationName = "scs-cdh";
+const organizationName = "scsd-cdh";
 const projectName = "documentation";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'SCS-CDH',
+  title: 'SCSD CDH Team',
   tagline: 'Crafting software for CubeSat missions 🛰️',
   favicon: 'img/logo.png',
 
@@ -60,9 +60,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'SCS-CDH',
+        title: 'SCSD-CDH',
         logo: {
-          alt: 'SCS-CDH Site Logo',
+          alt: 'SCSD-CDH Site Logo',
           src: 'img/logo.png',
         },
         items: [
@@ -72,32 +72,13 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/scs-cdh',
+            href: 'https://github.com/scsd-cdh',
             label: 'GitHub',
             position: 'right',
           },
         ],
-      },
-      footer: {
-        style: 'light',
-        links: [
-          {
-            title: 'Links',
-            items: [
-              // {
-              //   label: 'Blog',
-              //   to: '/blog',
-              // },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/scs-cdh',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()}. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

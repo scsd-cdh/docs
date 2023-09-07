@@ -1,0 +1,29 @@
+{
+  "unversionedId": "low-level-architecture/drivers copy",
+  "id": "low-level-architecture/drivers copy",
+  "title": "Component Drivers",
+  "description": "Implementation of Component Drivers.",
+  "source": "@site/docs/low-level-architecture/drivers copy.md",
+  "sourceDirName": "low-level-architecture",
+  "slug": "/low-level-architecture/drivers copy",
+  "permalink": "/documentation/docs/low-level-architecture/drivers copy",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/drivers copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Component Drivers",
+    "description": "Implementation of Component Drivers.",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Middleware",
+    "permalink": "/documentation/docs/low-level-architecture/middleware"
+  },
+  "next": {
+    "title": "Component Drivers",
+    "permalink": "/documentation/docs/low-level-architecture/drivers"
+  }
+}

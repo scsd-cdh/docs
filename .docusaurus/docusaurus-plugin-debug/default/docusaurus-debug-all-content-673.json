@@ -11,8 +11,8 @@
           "className": "docs-version-current",
           "path": "/documentation/docs",
           "tagsPath": "/documentation/docs/tags",
-          "editUrl": "https://github.com/scs-cdh/documentation/tree/main/docs",
-          "editUrlLocalized": "https://github.com/scs-cdh/documentation/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs",
+          "editUrlLocalized": "https://github.com/scsd-cdh/documentation/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "C:\\Users\\thoma\\OneDrive\\Documents\\GitHub\\documentation\\sidebars.js",
@@ -23,16 +23,18 @@
               "unversionedId": "getting-started/alire",
               "id": "getting-started/alire",
               "title": "Alire",
-              "description": "Alire serves as a package manager tailored for the Ada and SPARK programming languages.",
+              "description": "How to install and use the Alire package manager.",
               "source": "@site/docs/getting-started/alire.md",
               "sourceDirName": "getting-started",
               "slug": "/getting-started/alire",
               "permalink": "/documentation/docs/getting-started/alire",
               "draft": false,
-              "editUrl": "https://github.com/scs-cdh/documentation/tree/main/docs/getting-started/alire.md",
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/getting-started/alire.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "frontMatter": {
+                "description": "How to install and use the Alire package manager."
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Getting Started",
@@ -47,26 +49,347 @@
               "unversionedId": "getting-started/renode",
               "id": "getting-started/renode",
               "title": "Renode",
-              "description": "Introduction",
+              "description": "How to use and install Renode for emulating boards.",
               "source": "@site/docs/getting-started/renode.md",
               "sourceDirName": "getting-started",
               "slug": "/getting-started/renode",
               "permalink": "/documentation/docs/getting-started/renode",
               "draft": false,
-              "editUrl": "https://github.com/scs-cdh/documentation/tree/main/docs/getting-started/renode.md",
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/getting-started/renode.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "frontMatter": {
+                "description": "How to use and install Renode for emulating boards."
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Alire",
                 "permalink": "/documentation/docs/getting-started/alire"
+              },
+              "next": {
+                "title": "Low-Level Architecture",
+                "permalink": "/documentation/docs/category/low-level-architecture"
+              }
+            },
+            {
+              "unversionedId": "high-level-architecture/intro",
+              "id": "high-level-architecture/intro",
+              "title": "Introduction",
+              "description": "Overall architecture of the low-level implementation.",
+              "source": "@site/docs/high-level-architecture/intro.md",
+              "sourceDirName": "high-level-architecture",
+              "slug": "/high-level-architecture/intro",
+              "permalink": "/documentation/docs/high-level-architecture/intro",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Introduction",
+                "description": "Overall architecture of the low-level implementation.",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "High-Level Architecture",
+                "permalink": "/documentation/docs/category/high-level-architecture"
+              },
+              "next": {
+                "title": "Supported Boards",
+                "permalink": "/documentation/docs/category/supported-boards"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Introduction",
+              "description": "This documentation section will serve to explain the following:",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/documentation/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "Introduction"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/documentation/docs/category/getting-started"
+              }
+            },
+            {
+              "unversionedId": "low-level-architecture/bsp",
+              "id": "low-level-architecture/bsp",
+              "title": "Board Support Packages",
+              "description": "Implementation of BSPs.",
+              "source": "@site/docs/low-level-architecture/bsp.md",
+              "sourceDirName": "low-level-architecture",
+              "slug": "/low-level-architecture/bsp",
+              "permalink": "/documentation/docs/low-level-architecture/bsp",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/bsp.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Board Support Packages",
+                "description": "Implementation of BSPs.",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/documentation/docs/low-level-architecture/intro"
+              },
+              "next": {
+                "title": "Hardware Abstraction Layer",
+                "permalink": "/documentation/docs/low-level-architecture/hal"
+              }
+            },
+            {
+              "unversionedId": "low-level-architecture/drivers",
+              "id": "low-level-architecture/drivers",
+              "title": "Component Drivers",
+              "description": "Implementation of Component Drivers.",
+              "source": "@site/docs/low-level-architecture/drivers.md",
+              "sourceDirName": "low-level-architecture",
+              "slug": "/low-level-architecture/drivers",
+              "permalink": "/documentation/docs/low-level-architecture/drivers",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/drivers.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "title": "Component Drivers",
+                "description": "Implementation of Component Drivers.",
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Serial Communication Drivers",
+                "permalink": "/documentation/docs/low-level-architecture/serial"
+              },
+              "next": {
+                "title": "High-Level Architecture",
+                "permalink": "/documentation/docs/category/high-level-architecture"
+              }
+            },
+            {
+              "unversionedId": "low-level-architecture/hal",
+              "id": "low-level-architecture/hal",
+              "title": "Hardware Abstraction Layer",
+              "description": "Implementation of HALs.",
+              "source": "@site/docs/low-level-architecture/hal.md",
+              "sourceDirName": "low-level-architecture",
+              "slug": "/low-level-architecture/hal",
+              "permalink": "/documentation/docs/low-level-architecture/hal",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/hal.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "Hardware Abstraction Layer",
+                "description": "Implementation of HALs.",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Board Support Packages",
+                "permalink": "/documentation/docs/low-level-architecture/bsp"
+              },
+              "next": {
+                "title": "SVD Bindings",
+                "permalink": "/documentation/docs/low-level-architecture/svd"
+              }
+            },
+            {
+              "unversionedId": "low-level-architecture/intro",
+              "id": "low-level-architecture/intro",
+              "title": "Introduction",
+              "description": "Overall architecture of the low-level implementation.",
+              "source": "@site/docs/low-level-architecture/intro.md",
+              "sourceDirName": "low-level-architecture",
+              "slug": "/low-level-architecture/intro",
+              "permalink": "/documentation/docs/low-level-architecture/intro",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Introduction",
+                "description": "Overall architecture of the low-level implementation.",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Low-Level Architecture",
+                "permalink": "/documentation/docs/category/low-level-architecture"
+              },
+              "next": {
+                "title": "Board Support Packages",
+                "permalink": "/documentation/docs/low-level-architecture/bsp"
+              }
+            },
+            {
+              "unversionedId": "low-level-architecture/middleware",
+              "id": "low-level-architecture/middleware",
+              "title": "Middleware",
+              "description": "Implementation of the middleware.",
+              "source": "@site/docs/low-level-architecture/middleware.md",
+              "sourceDirName": "low-level-architecture",
+              "slug": "/low-level-architecture/middleware",
+              "permalink": "/documentation/docs/low-level-architecture/middleware",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/middleware.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "Middleware",
+                "description": "Implementation of the middleware.",
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SVD Bindings",
+                "permalink": "/documentation/docs/low-level-architecture/svd"
+              },
+              "next": {
+                "title": "Serial Communication Drivers",
+                "permalink": "/documentation/docs/low-level-architecture/serial"
+              }
+            },
+            {
+              "unversionedId": "low-level-architecture/serial",
+              "id": "low-level-architecture/serial",
+              "title": "Serial Communication Drivers",
+              "description": "Implementation of Serial Communication Drivers.",
+              "source": "@site/docs/low-level-architecture/serial.md",
+              "sourceDirName": "low-level-architecture",
+              "slug": "/low-level-architecture/serial",
+              "permalink": "/documentation/docs/low-level-architecture/serial",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/serial.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "title": "Serial Communication Drivers",
+                "description": "Implementation of Serial Communication Drivers.",
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Middleware",
+                "permalink": "/documentation/docs/low-level-architecture/middleware"
+              },
+              "next": {
+                "title": "Component Drivers",
+                "permalink": "/documentation/docs/low-level-architecture/drivers"
+              }
+            },
+            {
+              "unversionedId": "low-level-architecture/svd",
+              "id": "low-level-architecture/svd",
+              "title": "SVD Bindings",
+              "description": "Implementation of SVD Bindings.",
+              "source": "@site/docs/low-level-architecture/svd.md",
+              "sourceDirName": "low-level-architecture",
+              "slug": "/low-level-architecture/svd",
+              "permalink": "/documentation/docs/low-level-architecture/svd",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/svd.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "SVD Bindings",
+                "description": "Implementation of SVD Bindings.",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Hardware Abstraction Layer",
+                "permalink": "/documentation/docs/low-level-architecture/hal"
+              },
+              "next": {
+                "title": "Middleware",
+                "permalink": "/documentation/docs/low-level-architecture/middleware"
+              }
+            },
+            {
+              "unversionedId": "supported-boards/intro",
+              "id": "supported-boards/intro",
+              "title": "Introduction",
+              "description": "Overall architecture of the low-level implementation.",
+              "source": "@site/docs/supported-boards/intro.md",
+              "sourceDirName": "supported-boards",
+              "slug": "/supported-boards/intro",
+              "permalink": "/documentation/docs/supported-boards/intro",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/supported-boards/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Introduction",
+                "description": "Overall architecture of the low-level implementation.",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Supported Boards",
+                "permalink": "/documentation/docs/category/supported-boards"
+              },
+              "next": {
+                "title": "AstroCore Utilities",
+                "permalink": "/documentation/docs/category/astrocore-utilities"
+              }
+            },
+            {
+              "unversionedId": "tools/intro",
+              "id": "tools/intro",
+              "title": "Introduction",
+              "description": "Overall architecture of the low-level implementation.",
+              "source": "@site/docs/tools/intro.md",
+              "sourceDirName": "tools",
+              "slug": "/tools/intro",
+              "permalink": "/documentation/docs/tools/intro",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/tools/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Introduction",
+                "description": "Overall architecture of the low-level implementation.",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "AstroCore Utilities",
+                "permalink": "/documentation/docs/category/astrocore-utilities"
               }
             }
           ],
           "drafts": [],
           "sidebars": {
             "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro",
+                "label": "Introduction"
+              },
               {
                 "type": "category",
                 "label": "Getting Started",
@@ -87,6 +410,101 @@
                   "slug": "/category/getting-started",
                   "permalink": "/documentation/docs/category/getting-started"
                 }
+              },
+              {
+                "type": "category",
+                "label": "Low-Level Architecture",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "low-level-architecture/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "low-level-architecture/bsp"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "low-level-architecture/hal"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "low-level-architecture/svd"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "low-level-architecture/middleware"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "low-level-architecture/serial"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "low-level-architecture/drivers"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/low-level-architecture",
+                  "permalink": "/documentation/docs/category/low-level-architecture"
+                }
+              },
+              {
+                "type": "category",
+                "label": "High-Level Architecture",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "high-level-architecture/intro"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/high-level-architecture",
+                  "permalink": "/documentation/docs/category/high-level-architecture"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Supported Boards",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "supported-boards/intro"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/supported-boards",
+                  "permalink": "/documentation/docs/category/supported-boards"
+                }
+              },
+              {
+                "type": "category",
+                "label": "AstroCore Utilities",
+                "collapsible": true,
+                "collapsed": true,
+                "customProps": {
+                  "description": "Test description"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tools/intro"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/astrocore-utilities",
+                  "permalink": "/documentation/docs/category/astrocore-utilities"
+                }
               }
             ]
           }
@@ -102,7 +520,7 @@
           "id": "welcome",
           "metadata": {
             "permalink": "/documentation/blog/welcome",
-            "editUrl": "https://github.com/scs-cdh/documentation/tree/main/blog/2021-08-26-welcome/index.md",
+            "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -164,7 +582,7 @@
           "id": "mdx-blog-post",
           "metadata": {
             "permalink": "/documentation/blog/mdx-blog-post",
-            "editUrl": "https://github.com/scs-cdh/documentation/tree/main/blog/2021-08-01-mdx-blog-post.mdx",
+            "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -212,7 +630,7 @@
           "id": "long-blog-post",
           "metadata": {
             "permalink": "/documentation/blog/long-blog-post",
-            "editUrl": "https://github.com/scs-cdh/documentation/tree/main/blog/2019-05-29-long-blog-post.md",
+            "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
             "description": "This is the summary of a very long blog post,",
@@ -263,7 +681,7 @@
           "id": "first-blog-post",
           "metadata": {
             "permalink": "/documentation/blog/first-blog-post",
-            "editUrl": "https://github.com/scs-cdh/documentation/tree/main/blog/2019-05-28-first-blog-post.md",
+            "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",

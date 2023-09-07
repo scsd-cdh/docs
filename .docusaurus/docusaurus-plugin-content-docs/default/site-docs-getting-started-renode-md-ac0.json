@@ -2,19 +2,25 @@
   "unversionedId": "getting-started/renode",
   "id": "getting-started/renode",
   "title": "Renode",
-  "description": "Introduction",
+  "description": "How to use and install Renode for emulating boards.",
   "source": "@site/docs/getting-started/renode.md",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/renode",
   "permalink": "/documentation/docs/getting-started/renode",
   "draft": false,
-  "editUrl": "https://github.com/scs-cdh/documentation/tree/main/docs/getting-started/renode.md",
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/getting-started/renode.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "description": "How to use and install Renode for emulating boards."
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Alire",
     "permalink": "/documentation/docs/getting-started/alire"
+  },
+  "next": {
+    "title": "Low-Level Architecture",
+    "permalink": "/documentation/docs/category/low-level-architecture"
   }
 }

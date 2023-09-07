@@ -1,0 +1,29 @@
+{
+  "unversionedId": "supported-boards/intro",
+  "id": "supported-boards/intro",
+  "title": "Introduction",
+  "description": "Overall architecture of the low-level implementation.",
+  "source": "@site/docs/supported-boards/intro.md",
+  "sourceDirName": "supported-boards",
+  "slug": "/supported-boards/intro",
+  "permalink": "/documentation/docs/supported-boards/intro",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/supported-boards/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "description": "Overall architecture of the low-level implementation.",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Supported Boards",
+    "permalink": "/documentation/docs/category/supported-boards"
+  },
+  "next": {
+    "title": "AstroCore Utilities",
+    "permalink": "/documentation/docs/category/astrocore-utilities"
+  }
+}

@@ -1,3 +1,7 @@
+---
+description: How to install and use the Alire package manager.
+---
+
 # Alire
 
 Alire serves as a package manager tailored for the Ada and SPARK programming languages.

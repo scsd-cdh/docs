@@ -4,12 +4,12 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "SCS-CDH",
+  "title": "SCSD CDH Team",
   "tagline": "Crafting software for CubeSat missions 🛰️",
   "favicon": "img/logo.png",
-  "url": "https://scs-cdh.github.io",
+  "url": "https://scsd-cdh.github.io",
   "baseUrl": "/documentation/",
-  "organizationName": "scs-cdh",
+  "organizationName": "scsd-cdh",
   "projectName": "documentation",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -27,11 +27,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "C:\\Users\\thoma\\OneDrive\\Documents\\GitHub\\documentation\\sidebars.js",
-          "editUrl": "https://github.com/scs-cdh/documentation/tree/main/"
+          "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/scs-cdh/documentation/tree/main/"
+          "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/"
         },
         "theme": {
           "customCss": "C:\\Users\\thoma\\OneDrive\\Documents\\GitHub\\documentation\\src\\css\\custom.css"
@@ -42,9 +42,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "SCS-CDH",
+      "title": "SCSD-CDH",
       "logo": {
-        "alt": "SCS-CDH Site Logo",
+        "alt": "SCSD-CDH Site Logo",
         "src": "img/logo.png"
       },
       "items": [
@@ -55,27 +55,17 @@ export default {
           "label": "Docs"
         },
         {
-          "href": "https://github.com/scs-cdh",
+          "to": "/blog",
+          "label": "Blog",
+          "position": "left"
+        },
+        {
+          "href": "https://github.com/scsd-cdh",
           "label": "GitHub",
           "position": "right"
         }
       ],
       "hideOnScroll": false
-    },
-    "footer": {
-      "style": "light",
-      "links": [
-        {
-          "title": "Links",
-          "items": [
-            {
-              "label": "GitHub",
-              "href": "https://github.com/scs-cdh"
-            }
-          ]
-        }
-      ],
-      "copyright": "Copyright © 2023. Built with Docusaurus."
     },
     "prism": {
       "theme": {

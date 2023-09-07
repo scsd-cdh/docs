@@ -1,0 +1,29 @@
+{
+  "unversionedId": "low-level-architecture/intro",
+  "id": "low-level-architecture/intro",
+  "title": "Introduction",
+  "description": "Overall architecture of the low-level implementation.",
+  "source": "@site/docs/low-level-architecture/intro.md",
+  "sourceDirName": "low-level-architecture",
+  "slug": "/low-level-architecture/intro",
+  "permalink": "/documentation/docs/low-level-architecture/intro",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "description": "Overall architecture of the low-level implementation.",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Low-Level Architecture",
+    "permalink": "/documentation/docs/category/low-level-architecture"
+  },
+  "next": {
+    "title": "Board Support Packages",
+    "permalink": "/documentation/docs/low-level-architecture/bsp"
+  }
+}

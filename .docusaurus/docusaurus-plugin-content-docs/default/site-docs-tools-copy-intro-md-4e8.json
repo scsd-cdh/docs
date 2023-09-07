@@ -1,0 +1,25 @@
+{
+  "unversionedId": "tools copy/intro",
+  "id": "tools copy/intro",
+  "title": "Introduction",
+  "description": "Overall architecture of the low-level implementation.",
+  "source": "@site/docs/tools copy/intro.md",
+  "sourceDirName": "tools copy",
+  "slug": "/tools copy/intro",
+  "permalink": "/documentation/docs/tools copy/intro",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/tools copy/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "description": "Overall architecture of the low-level implementation.",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AstroCore Utilities",
+    "permalink": "/documentation/docs/category/astrocore-utilities-1"
+  }
+}
