@@ -74,12 +74,6 @@
           },
           {
             "type": "link",
-            "label": "Serial Communication Drivers",
-            "href": "/documentation/docs/low-level-architecture/serial",
-            "docId": "low-level-architecture/serial"
-          },
-          {
-            "type": "link",
             "label": "Component Drivers",
             "href": "/documentation/docs/low-level-architecture/drivers",
             "docId": "low-level-architecture/drivers"
@@ -190,12 +184,6 @@
       "id": "low-level-architecture/middleware",
       "title": "Middleware",
       "description": "Implementation of the middleware.",
-      "sidebar": "tutorialSidebar"
-    },
-    "low-level-architecture/serial": {
-      "id": "low-level-architecture/serial",
-      "title": "Serial Communication Drivers",
-      "description": "Implementation of Serial Communication Drivers.",
       "sidebar": "tutorialSidebar"
     },
     "low-level-architecture/svd": {

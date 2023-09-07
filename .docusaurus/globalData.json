@@ -56,11 +56,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "low-level-architecture/serial",
-              "path": "/documentation/docs/low-level-architecture/serial",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "low-level-architecture/svd",
               "path": "/documentation/docs/low-level-architecture/svd",
               "sidebar": "tutorialSidebar"

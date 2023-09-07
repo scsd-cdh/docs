@@ -23,7 +23,7 @@
     "permalink": "/documentation/docs/low-level-architecture/svd"
   },
   "next": {
-    "title": "Serial Communication Drivers",
-    "permalink": "/documentation/docs/low-level-architecture/serial"
+    "title": "Component Drivers",
+    "permalink": "/documentation/docs/low-level-architecture/drivers"
   }
 }

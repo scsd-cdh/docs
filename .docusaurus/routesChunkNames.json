@@ -200,7 +200,7 @@
     },
     "config": "config---documentation-my-react-page-5-e-9-b5b"
   },
-  "/documentation/docs-b88": {
+  "/documentation/docs-1e4": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---documentation-docs-5-fa-58d"
@@ -262,10 +262,6 @@
   "/documentation/docs/low-level-architecture/middleware-d87": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-docs-low-level-architecture-middleware-780-3fd"
-  },
-  "/documentation/docs/low-level-architecture/serial-70c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-low-level-architecture-serial-633-3b8"
   },
   "/documentation/docs/low-level-architecture/svd-5a0": {
     "__comp": "__comp---theme-doc-item-178-a40",

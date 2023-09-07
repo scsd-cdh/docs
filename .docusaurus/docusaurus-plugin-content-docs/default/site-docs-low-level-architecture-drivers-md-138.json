@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Serial Communication Drivers",
-    "permalink": "/documentation/docs/low-level-architecture/serial"
+    "title": "Middleware",
+    "permalink": "/documentation/docs/low-level-architecture/middleware"
   },
   "next": {
     "title": "High-Level Architecture",

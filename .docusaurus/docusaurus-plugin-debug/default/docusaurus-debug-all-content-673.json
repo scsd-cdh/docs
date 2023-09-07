@@ -174,8 +174,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Serial Communication Drivers",
-                "permalink": "/documentation/docs/low-level-architecture/serial"
+                "title": "Middleware",
+                "permalink": "/documentation/docs/low-level-architecture/middleware"
               },
               "next": {
                 "title": "High-Level Architecture",
@@ -263,35 +263,6 @@
               "previous": {
                 "title": "SVD Bindings",
                 "permalink": "/documentation/docs/low-level-architecture/svd"
-              },
-              "next": {
-                "title": "Serial Communication Drivers",
-                "permalink": "/documentation/docs/low-level-architecture/serial"
-              }
-            },
-            {
-              "unversionedId": "low-level-architecture/serial",
-              "id": "low-level-architecture/serial",
-              "title": "Serial Communication Drivers",
-              "description": "Implementation of Serial Communication Drivers.",
-              "source": "@site/docs/low-level-architecture/serial.md",
-              "sourceDirName": "low-level-architecture",
-              "slug": "/low-level-architecture/serial",
-              "permalink": "/documentation/docs/low-level-architecture/serial",
-              "draft": false,
-              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/serial.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "title": "Serial Communication Drivers",
-                "description": "Implementation of Serial Communication Drivers.",
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Middleware",
-                "permalink": "/documentation/docs/low-level-architecture/middleware"
               },
               "next": {
                 "title": "Component Drivers",
@@ -436,10 +407,6 @@
                   {
                     "type": "doc",
                     "id": "low-level-architecture/middleware"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "low-level-architecture/serial"
                   },
                   {
                     "type": "doc",

@@ -109,7 +109,7 @@ export default [
   },
   {
     path: '/documentation/docs',
-    component: ComponentCreator('/documentation/docs', 'b88'),
+    component: ComponentCreator('/documentation/docs', '1e4'),
     routes: [
       {
         path: '/documentation/docs/category/astrocore-utilities',
@@ -192,12 +192,6 @@ export default [
       {
         path: '/documentation/docs/low-level-architecture/middleware',
         component: ComponentCreator('/documentation/docs/low-level-architecture/middleware', 'd87'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/documentation/docs/low-level-architecture/serial',
-        component: ComponentCreator('/documentation/docs/low-level-architecture/serial', '70c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
