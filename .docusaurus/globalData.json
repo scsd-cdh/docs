@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "getting-started/renode",
+              "path": "/documentation/docs/getting-started/renode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/getting-started",
               "path": "/documentation/docs/category/getting-started",
               "sidebar": "tutorialSidebar"

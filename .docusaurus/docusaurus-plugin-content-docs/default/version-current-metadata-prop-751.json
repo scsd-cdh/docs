@@ -20,6 +20,12 @@
             "label": "Alire",
             "href": "/documentation/docs/getting-started/alire",
             "docId": "getting-started/alire"
+          },
+          {
+            "type": "link",
+            "label": "Renode",
+            "href": "/documentation/docs/getting-started/renode",
+            "docId": "getting-started/renode"
           }
         ],
         "href": "/documentation/docs/category/getting-started"
@@ -31,6 +37,12 @@
       "id": "getting-started/alire",
       "title": "Alire",
       "description": "Alire serves as a package manager tailored for the Ada and SPARK programming languages.",
+      "sidebar": "tutorialSidebar"
+    },
+    "getting-started/renode": {
+      "id": "getting-started/renode",
+      "title": "Renode",
+      "description": "Introduction",
       "sidebar": "tutorialSidebar"
     }
   }

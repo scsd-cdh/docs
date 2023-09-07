@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/facilities/Repos/scs-cdh/documentation/sidebars.js",
+          "sidebarPath": "C:\\Users\\thoma\\OneDrive\\Documents\\GitHub\\documentation\\sidebars.js",
           "editUrl": "https://github.com/scs-cdh/documentation/tree/main/"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/scs-cdh/documentation/tree/main/"
         },
         "theme": {
-          "customCss": "/home/facilities/Repos/scs-cdh/documentation/src/css/custom.css"
+          "customCss": "C:\\Users\\thoma\\OneDrive\\Documents\\GitHub\\documentation\\src\\css\\custom.css"
         }
       }
     ]
