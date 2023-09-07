@@ -4,8 +4,8 @@
   "permalink": "/documentation/docs/category/high-level-architecture",
   "navigation": {
     "previous": {
-      "title": "Component Drivers",
-      "permalink": "/documentation/docs/low-level-architecture/drivers"
+      "title": "Middleware",
+      "permalink": "/documentation/docs/low-level-architecture/middleware"
     },
     "next": {
       "title": "Introduction",

@@ -71,12 +71,6 @@
             "label": "Middleware",
             "href": "/documentation/docs/low-level-architecture/middleware",
             "docId": "low-level-architecture/middleware"
-          },
-          {
-            "type": "link",
-            "label": "Component Drivers",
-            "href": "/documentation/docs/low-level-architecture/drivers",
-            "docId": "low-level-architecture/drivers"
           }
         ],
         "href": "/documentation/docs/category/low-level-architecture"
@@ -125,6 +119,12 @@
             "label": "Introduction",
             "href": "/documentation/docs/tools/intro",
             "docId": "tools/intro"
+          },
+          {
+            "type": "link",
+            "label": "AstroCore Project Configuration Tool",
+            "href": "/documentation/docs/tools/project-configurator",
+            "docId": "tools/project-configurator"
           }
         ],
         "href": "/documentation/docs/category/astrocore-utilities"
@@ -162,12 +162,6 @@
       "description": "Implementation of BSPs.",
       "sidebar": "tutorialSidebar"
     },
-    "low-level-architecture/drivers": {
-      "id": "low-level-architecture/drivers",
-      "title": "Component Drivers",
-      "description": "Implementation of Component Drivers.",
-      "sidebar": "tutorialSidebar"
-    },
     "low-level-architecture/hal": {
       "id": "low-level-architecture/hal",
       "title": "Hardware Abstraction Layer",
@@ -202,6 +196,12 @@
       "id": "tools/intro",
       "title": "Introduction",
       "description": "Overall architecture of the low-level implementation.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tools/project-configurator": {
+      "id": "tools/project-configurator",
+      "title": "AstroCore Project Configuration Tool",
+      "description": "CLI/GUI tool to quickly create and configure an AstroCore project.",
       "sidebar": "tutorialSidebar"
     }
   }

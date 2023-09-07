@@ -36,11 +36,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "low-level-architecture/drivers",
-              "path": "/documentation/docs/low-level-architecture/drivers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "low-level-architecture/hal",
               "path": "/documentation/docs/low-level-architecture/hal",
               "sidebar": "tutorialSidebar"
@@ -68,6 +63,11 @@
             {
               "id": "tools/intro",
               "path": "/documentation/docs/tools/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/project-configurator",
+              "path": "/documentation/docs/tools/project-configurator",
               "sidebar": "tutorialSidebar"
             },
             {

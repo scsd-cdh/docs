@@ -109,7 +109,7 @@ export default [
   },
   {
     path: '/documentation/docs',
-    component: ComponentCreator('/documentation/docs', '1e4'),
+    component: ComponentCreator('/documentation/docs', 'd78'),
     routes: [
       {
         path: '/documentation/docs/category/astrocore-utilities',
@@ -172,12 +172,6 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/documentation/docs/low-level-architecture/drivers',
-        component: ComponentCreator('/documentation/docs/low-level-architecture/drivers', 'a2f'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
         path: '/documentation/docs/low-level-architecture/hal',
         component: ComponentCreator('/documentation/docs/low-level-architecture/hal', 'ece'),
         exact: true,
@@ -210,6 +204,12 @@ export default [
       {
         path: '/documentation/docs/tools/intro',
         component: ComponentCreator('/documentation/docs/tools/intro', '368'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/tools/project-configurator',
+        component: ComponentCreator('/documentation/docs/tools/project-configurator', 'e6e'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

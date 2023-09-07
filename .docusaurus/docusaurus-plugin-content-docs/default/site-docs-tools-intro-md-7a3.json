@@ -21,5 +21,9 @@
   "previous": {
     "title": "AstroCore Utilities",
     "permalink": "/documentation/docs/category/astrocore-utilities"
+  },
+  "next": {
+    "title": "AstroCore Project Configuration Tool",
+    "permalink": "/documentation/docs/tools/project-configurator"
   }
 }

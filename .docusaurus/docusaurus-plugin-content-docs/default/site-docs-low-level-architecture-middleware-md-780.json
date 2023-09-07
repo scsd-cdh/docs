@@ -23,7 +23,7 @@
     "permalink": "/documentation/docs/low-level-architecture/svd"
   },
   "next": {
-    "title": "Component Drivers",
-    "permalink": "/documentation/docs/low-level-architecture/drivers"
+    "title": "High-Level Architecture",
+    "permalink": "/documentation/docs/category/high-level-architecture"
   }
 }

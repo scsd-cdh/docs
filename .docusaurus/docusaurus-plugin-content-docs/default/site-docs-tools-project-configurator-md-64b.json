@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tools/project-configurator",
+  "id": "tools/project-configurator",
+  "title": "AstroCore Project Configuration Tool",
+  "description": "CLI/GUI tool to quickly create and configure an AstroCore project.",
+  "source": "@site/docs/tools/project-configurator.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/project-configurator",
+  "permalink": "/documentation/docs/tools/project-configurator",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/tools/project-configurator.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AstroCore Project Configuration Tool",
+    "description": "CLI/GUI tool to quickly create and configure an AstroCore project."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/documentation/docs/tools/intro"
+  }
+}

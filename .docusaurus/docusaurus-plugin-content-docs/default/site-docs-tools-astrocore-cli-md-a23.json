@@ -1,0 +1,20 @@
+{
+  "unversionedId": "tools/astrocore-cli",
+  "id": "tools/astrocore-cli",
+  "title": "astrocore-cli",
+  "description": "",
+  "source": "@site/docs/tools/astrocore-cli.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/astrocore-cli",
+  "permalink": "/documentation/docs/tools/astrocore-cli",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/tools/astrocore-cli.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/documentation/docs/tools/intro"
+  }
+}

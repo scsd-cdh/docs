@@ -154,35 +154,6 @@
               }
             },
             {
-              "unversionedId": "low-level-architecture/drivers",
-              "id": "low-level-architecture/drivers",
-              "title": "Component Drivers",
-              "description": "Implementation of Component Drivers.",
-              "source": "@site/docs/low-level-architecture/drivers.md",
-              "sourceDirName": "low-level-architecture",
-              "slug": "/low-level-architecture/drivers",
-              "permalink": "/documentation/docs/low-level-architecture/drivers",
-              "draft": false,
-              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/drivers.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 7,
-              "frontMatter": {
-                "title": "Component Drivers",
-                "description": "Implementation of Component Drivers.",
-                "sidebar_position": 7
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Middleware",
-                "permalink": "/documentation/docs/low-level-architecture/middleware"
-              },
-              "next": {
-                "title": "High-Level Architecture",
-                "permalink": "/documentation/docs/category/high-level-architecture"
-              }
-            },
-            {
               "unversionedId": "low-level-architecture/hal",
               "id": "low-level-architecture/hal",
               "title": "Hardware Abstraction Layer",
@@ -265,8 +236,8 @@
                 "permalink": "/documentation/docs/low-level-architecture/svd"
               },
               "next": {
-                "title": "Component Drivers",
-                "permalink": "/documentation/docs/low-level-architecture/drivers"
+                "title": "High-Level Architecture",
+                "permalink": "/documentation/docs/category/high-level-architecture"
               }
             },
             {
@@ -350,6 +321,33 @@
               "previous": {
                 "title": "AstroCore Utilities",
                 "permalink": "/documentation/docs/category/astrocore-utilities"
+              },
+              "next": {
+                "title": "AstroCore Project Configuration Tool",
+                "permalink": "/documentation/docs/tools/project-configurator"
+              }
+            },
+            {
+              "unversionedId": "tools/project-configurator",
+              "id": "tools/project-configurator",
+              "title": "AstroCore Project Configuration Tool",
+              "description": "CLI/GUI tool to quickly create and configure an AstroCore project.",
+              "source": "@site/docs/tools/project-configurator.md",
+              "sourceDirName": "tools",
+              "slug": "/tools/project-configurator",
+              "permalink": "/documentation/docs/tools/project-configurator",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/tools/project-configurator.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "AstroCore Project Configuration Tool",
+                "description": "CLI/GUI tool to quickly create and configure an AstroCore project."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/documentation/docs/tools/intro"
               }
             }
           ],
@@ -407,10 +405,6 @@
                   {
                     "type": "doc",
                     "id": "low-level-architecture/middleware"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "low-level-architecture/drivers"
                   }
                 ],
                 "link": {
@@ -465,6 +459,10 @@
                   {
                     "type": "doc",
                     "id": "tools/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tools/project-configurator"
                   }
                 ],
                 "link": {
