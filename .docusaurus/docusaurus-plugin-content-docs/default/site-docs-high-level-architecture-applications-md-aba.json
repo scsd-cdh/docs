@@ -1,0 +1,27 @@
+{
+  "unversionedId": "high-level-architecture/applications",
+  "id": "high-level-architecture/applications",
+  "title": "Services",
+  "description": "What are services in AstroCore?",
+  "source": "@site/docs/high-level-architecture/applications.md",
+  "sourceDirName": "high-level-architecture",
+  "slug": "/high-level-architecture/applications",
+  "permalink": "/documentation/docs/high-level-architecture/applications",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/applications.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Services",
+    "description": "What are services in AstroCore?"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Messaging",
+    "permalink": "/documentation/docs/high-level-architecture/messaging"
+  },
+  "next": {
+    "title": "Modes of Operation",
+    "permalink": "/documentation/docs/category/modes-of-operation"
+  }
+}

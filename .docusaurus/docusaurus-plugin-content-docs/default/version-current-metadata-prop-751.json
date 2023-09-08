@@ -98,6 +98,75 @@
             "label": "Introduction",
             "href": "/documentation/docs/high-level-architecture/intro",
             "docId": "high-level-architecture/intro"
+          },
+          {
+            "type": "link",
+            "label": "Services",
+            "href": "/documentation/docs/high-level-architecture/services",
+            "docId": "high-level-architecture/services"
+          },
+          {
+            "type": "link",
+            "label": "Messaging",
+            "href": "/documentation/docs/high-level-architecture/messaging",
+            "docId": "high-level-architecture/messaging"
+          },
+          {
+            "type": "category",
+            "label": "Modes of Operation",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Safe",
+                "href": "/documentation/docs/high-level-architecture/modes-of-operation/safe",
+                "docId": "high-level-architecture/modes-of-operation/safe"
+              },
+              {
+                "type": "link",
+                "label": "Idle",
+                "href": "/documentation/docs/high-level-architecture/modes-of-operation/idle",
+                "docId": "high-level-architecture/modes-of-operation/idle"
+              },
+              {
+                "type": "link",
+                "label": "Detumbling",
+                "href": "/documentation/docs/high-level-architecture/modes-of-operation/detumble",
+                "docId": "high-level-architecture/modes-of-operation/detumble"
+              },
+              {
+                "type": "link",
+                "label": "Beaconing",
+                "href": "/documentation/docs/high-level-architecture/modes-of-operation/beaconing",
+                "docId": "high-level-architecture/modes-of-operation/beaconing"
+              },
+              {
+                "type": "link",
+                "label": "Communications",
+                "href": "/documentation/docs/high-level-architecture/modes-of-operation/communications",
+                "docId": "high-level-architecture/modes-of-operation/communications"
+              },
+              {
+                "type": "link",
+                "label": "Imaging",
+                "href": "/documentation/docs/high-level-architecture/modes-of-operation/imaging",
+                "docId": "high-level-architecture/modes-of-operation/imaging"
+              },
+              {
+                "type": "link",
+                "label": "Inference",
+                "href": "/documentation/docs/high-level-architecture/modes-of-operation/inference",
+                "docId": "high-level-architecture/modes-of-operation/inference"
+              },
+              {
+                "type": "link",
+                "label": "Laboratory",
+                "href": "/documentation/docs/high-level-architecture/modes-of-operation/laboratory",
+                "docId": "high-level-architecture/modes-of-operation/laboratory"
+              }
+            ],
+            "href": "/documentation/docs/category/modes-of-operation"
           }
         ],
         "href": "/documentation/docs/category/high-level-architecture"
@@ -166,6 +235,66 @@
       "id": "high-level-architecture/intro",
       "title": "Introduction",
       "description": "Overall architecture of the low-level implementation.",
+      "sidebar": "tutorialSidebar"
+    },
+    "high-level-architecture/messaging": {
+      "id": "high-level-architecture/messaging",
+      "title": "Messaging",
+      "description": "Messaging Bus between services",
+      "sidebar": "tutorialSidebar"
+    },
+    "high-level-architecture/modes-of-operation/beaconing": {
+      "id": "high-level-architecture/modes-of-operation/beaconing",
+      "title": "Beaconing",
+      "description": "Beaconing Mode",
+      "sidebar": "tutorialSidebar"
+    },
+    "high-level-architecture/modes-of-operation/communications": {
+      "id": "high-level-architecture/modes-of-operation/communications",
+      "title": "Communications",
+      "description": "Communications Mode",
+      "sidebar": "tutorialSidebar"
+    },
+    "high-level-architecture/modes-of-operation/detumble": {
+      "id": "high-level-architecture/modes-of-operation/detumble",
+      "title": "Detumbling",
+      "description": "Detumbling Mode",
+      "sidebar": "tutorialSidebar"
+    },
+    "high-level-architecture/modes-of-operation/idle": {
+      "id": "high-level-architecture/modes-of-operation/idle",
+      "title": "Idle",
+      "description": "Idle Mode",
+      "sidebar": "tutorialSidebar"
+    },
+    "high-level-architecture/modes-of-operation/imaging": {
+      "id": "high-level-architecture/modes-of-operation/imaging",
+      "title": "Imaging",
+      "description": "Imaging Mode",
+      "sidebar": "tutorialSidebar"
+    },
+    "high-level-architecture/modes-of-operation/inference": {
+      "id": "high-level-architecture/modes-of-operation/inference",
+      "title": "Inference",
+      "description": "Inference Mode",
+      "sidebar": "tutorialSidebar"
+    },
+    "high-level-architecture/modes-of-operation/laboratory": {
+      "id": "high-level-architecture/modes-of-operation/laboratory",
+      "title": "Laboratory",
+      "description": "Laboratory Mode",
+      "sidebar": "tutorialSidebar"
+    },
+    "high-level-architecture/modes-of-operation/safe": {
+      "id": "high-level-architecture/modes-of-operation/safe",
+      "title": "Safe",
+      "description": "Safe Mode",
+      "sidebar": "tutorialSidebar"
+    },
+    "high-level-architecture/services": {
+      "id": "high-level-architecture/services",
+      "title": "Services",
+      "description": "What are services in AstroCore?",
       "sidebar": "tutorialSidebar"
     },
     "intro": {

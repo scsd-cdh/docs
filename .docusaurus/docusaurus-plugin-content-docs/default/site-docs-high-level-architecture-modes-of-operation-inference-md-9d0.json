@@ -1,0 +1,28 @@
+{
+  "unversionedId": "high-level-architecture/modes-of-operation/inference",
+  "id": "high-level-architecture/modes-of-operation/inference",
+  "title": "Inference",
+  "description": "Inference Mode",
+  "source": "@site/docs/high-level-architecture/modes-of-operation/inference.md",
+  "sourceDirName": "high-level-architecture/modes-of-operation",
+  "slug": "/high-level-architecture/modes-of-operation/inference",
+  "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/inference",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/modes-of-operation/inference.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "description": "Inference Mode",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Imaging",
+    "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/imaging"
+  },
+  "next": {
+    "title": "Laboratory",
+    "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/laboratory"
+  }
+}

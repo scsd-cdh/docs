@@ -31,6 +31,56 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "high-level-architecture/messaging",
+              "path": "/documentation/docs/high-level-architecture/messaging",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "high-level-architecture/modes-of-operation/beaconing",
+              "path": "/documentation/docs/high-level-architecture/modes-of-operation/beaconing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "high-level-architecture/modes-of-operation/communications",
+              "path": "/documentation/docs/high-level-architecture/modes-of-operation/communications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "high-level-architecture/modes-of-operation/detumble",
+              "path": "/documentation/docs/high-level-architecture/modes-of-operation/detumble",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "high-level-architecture/modes-of-operation/idle",
+              "path": "/documentation/docs/high-level-architecture/modes-of-operation/idle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "high-level-architecture/modes-of-operation/imaging",
+              "path": "/documentation/docs/high-level-architecture/modes-of-operation/imaging",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "high-level-architecture/modes-of-operation/inference",
+              "path": "/documentation/docs/high-level-architecture/modes-of-operation/inference",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "high-level-architecture/modes-of-operation/laboratory",
+              "path": "/documentation/docs/high-level-architecture/modes-of-operation/laboratory",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "high-level-architecture/modes-of-operation/safe",
+              "path": "/documentation/docs/high-level-architecture/modes-of-operation/safe",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "high-level-architecture/services",
+              "path": "/documentation/docs/high-level-architecture/services",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/documentation/docs/intro",
               "sidebar": "tutorialSidebar"
@@ -93,6 +143,11 @@
             {
               "id": "/category/high-level-architecture",
               "path": "/documentation/docs/category/high-level-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/modes-of-operation",
+              "path": "/documentation/docs/category/modes-of-operation",
               "sidebar": "tutorialSidebar"
             },
             {

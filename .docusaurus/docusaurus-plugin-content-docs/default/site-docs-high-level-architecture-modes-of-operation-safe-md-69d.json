@@ -1,0 +1,28 @@
+{
+  "unversionedId": "high-level-architecture/modes-of-operation/safe",
+  "id": "high-level-architecture/modes-of-operation/safe",
+  "title": "Safe",
+  "description": "Safe Mode",
+  "source": "@site/docs/high-level-architecture/modes-of-operation/safe.md",
+  "sourceDirName": "high-level-architecture/modes-of-operation",
+  "slug": "/high-level-architecture/modes-of-operation/safe",
+  "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/safe",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/modes-of-operation/safe.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Safe Mode",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Modes of Operation",
+    "permalink": "/documentation/docs/category/modes-of-operation"
+  },
+  "next": {
+    "title": "Idle",
+    "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/idle"
+  }
+}

@@ -40,4 +40,3 @@ This variety of supported MCUs ensures that you can accurately model the hardwar
 
 ### macOS
 *To do*
-

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "high-level-architecture/messaging",
+  "id": "high-level-architecture/messaging",
+  "title": "Messaging",
+  "description": "Messaging Bus between services",
+  "source": "@site/docs/high-level-architecture/messaging.md",
+  "sourceDirName": "high-level-architecture",
+  "slug": "/high-level-architecture/messaging",
+  "permalink": "/documentation/docs/high-level-architecture/messaging",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/messaging.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "description": "Messaging Bus between services",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Services",
+    "permalink": "/documentation/docs/high-level-architecture/services"
+  },
+  "next": {
+    "title": "Modes of Operation",
+    "permalink": "/documentation/docs/category/modes-of-operation"
+  }
+}

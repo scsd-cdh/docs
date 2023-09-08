@@ -200,7 +200,7 @@
     },
     "config": "config---documentation-my-react-page-5-e-9-b5b"
   },
-  "/documentation/docs-679": {
+  "/documentation/docs-f72": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---documentation-docs-5-fa-58d"
@@ -223,6 +223,10 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-low-level-architecture-837-18c"
   },
+  "/documentation/docs/category/modes-of-operation-529": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-modes-of-operation-02-b-acb"
+  },
   "/documentation/docs/category/supported-boards-d34": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-supported-boards-7-eb-cba"
@@ -242,6 +246,46 @@
   "/documentation/docs/high-level-architecture/intro-1b2": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-docs-high-level-architecture-introa-3-b-05c"
+  },
+  "/documentation/docs/high-level-architecture/messaging-a28": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-high-level-architecture-messaging-687-acf"
+  },
+  "/documentation/docs/high-level-architecture/modes-of-operation/beaconing-e0e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-high-level-architecture-modes-of-operation-beaconingdac-69b"
+  },
+  "/documentation/docs/high-level-architecture/modes-of-operation/communications-774": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-high-level-architecture-modes-of-operation-communicationse-28-03c"
+  },
+  "/documentation/docs/high-level-architecture/modes-of-operation/detumble-9c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-high-level-architecture-modes-of-operation-detumblee-40-3d5"
+  },
+  "/documentation/docs/high-level-architecture/modes-of-operation/idle-5c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-high-level-architecture-modes-of-operation-idle-8-e-3-ee6"
+  },
+  "/documentation/docs/high-level-architecture/modes-of-operation/imaging-df8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-high-level-architecture-modes-of-operation-imaging-74-b-9c8"
+  },
+  "/documentation/docs/high-level-architecture/modes-of-operation/inference-a80": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-high-level-architecture-modes-of-operation-inference-9-d-0-1fc"
+  },
+  "/documentation/docs/high-level-architecture/modes-of-operation/laboratory-397": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-high-level-architecture-modes-of-operation-laboratoryd-51-267"
+  },
+  "/documentation/docs/high-level-architecture/modes-of-operation/safe-29b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-high-level-architecture-modes-of-operation-safe-69-d-86a"
+  },
+  "/documentation/docs/high-level-architecture/services-073": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-high-level-architecture-services-131-bb9"
   },
   "/documentation/docs/intro-9e8": {
     "__comp": "__comp---theme-doc-item-178-a40",

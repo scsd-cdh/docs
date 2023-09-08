@@ -125,8 +125,289 @@
                 "permalink": "/documentation/docs/category/high-level-architecture"
               },
               "next": {
+                "title": "Services",
+                "permalink": "/documentation/docs/high-level-architecture/services"
+              }
+            },
+            {
+              "unversionedId": "high-level-architecture/messaging",
+              "id": "high-level-architecture/messaging",
+              "title": "Messaging",
+              "description": "Messaging Bus between services",
+              "source": "@site/docs/high-level-architecture/messaging.md",
+              "sourceDirName": "high-level-architecture",
+              "slug": "/high-level-architecture/messaging",
+              "permalink": "/documentation/docs/high-level-architecture/messaging",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/messaging.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "description": "Messaging Bus between services",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Services",
+                "permalink": "/documentation/docs/high-level-architecture/services"
+              },
+              "next": {
+                "title": "Modes of Operation",
+                "permalink": "/documentation/docs/category/modes-of-operation"
+              }
+            },
+            {
+              "unversionedId": "high-level-architecture/modes-of-operation/beaconing",
+              "id": "high-level-architecture/modes-of-operation/beaconing",
+              "title": "Beaconing",
+              "description": "Beaconing Mode",
+              "source": "@site/docs/high-level-architecture/modes-of-operation/beaconing.md",
+              "sourceDirName": "high-level-architecture/modes-of-operation",
+              "slug": "/high-level-architecture/modes-of-operation/beaconing",
+              "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/beaconing",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/modes-of-operation/beaconing.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "description": "Beaconing Mode",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Detumbling",
+                "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/detumble"
+              },
+              "next": {
+                "title": "Communications",
+                "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/communications"
+              }
+            },
+            {
+              "unversionedId": "high-level-architecture/modes-of-operation/communications",
+              "id": "high-level-architecture/modes-of-operation/communications",
+              "title": "Communications",
+              "description": "Communications Mode",
+              "source": "@site/docs/high-level-architecture/modes-of-operation/communications.md",
+              "sourceDirName": "high-level-architecture/modes-of-operation",
+              "slug": "/high-level-architecture/modes-of-operation/communications",
+              "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/communications",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/modes-of-operation/communications.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "description": "Communications Mode",
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Beaconing",
+                "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/beaconing"
+              },
+              "next": {
+                "title": "Imaging",
+                "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/imaging"
+              }
+            },
+            {
+              "unversionedId": "high-level-architecture/modes-of-operation/detumble",
+              "id": "high-level-architecture/modes-of-operation/detumble",
+              "title": "Detumbling",
+              "description": "Detumbling Mode",
+              "source": "@site/docs/high-level-architecture/modes-of-operation/detumble.md",
+              "sourceDirName": "high-level-architecture/modes-of-operation",
+              "slug": "/high-level-architecture/modes-of-operation/detumble",
+              "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/detumble",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/modes-of-operation/detumble.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "description": "Detumbling Mode",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Idle",
+                "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/idle"
+              },
+              "next": {
+                "title": "Beaconing",
+                "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/beaconing"
+              }
+            },
+            {
+              "unversionedId": "high-level-architecture/modes-of-operation/idle",
+              "id": "high-level-architecture/modes-of-operation/idle",
+              "title": "Idle",
+              "description": "Idle Mode",
+              "source": "@site/docs/high-level-architecture/modes-of-operation/idle.md",
+              "sourceDirName": "high-level-architecture/modes-of-operation",
+              "slug": "/high-level-architecture/modes-of-operation/idle",
+              "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/idle",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/modes-of-operation/idle.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "description": "Idle Mode",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Safe",
+                "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/safe"
+              },
+              "next": {
+                "title": "Detumbling",
+                "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/detumble"
+              }
+            },
+            {
+              "unversionedId": "high-level-architecture/modes-of-operation/imaging",
+              "id": "high-level-architecture/modes-of-operation/imaging",
+              "title": "Imaging",
+              "description": "Imaging Mode",
+              "source": "@site/docs/high-level-architecture/modes-of-operation/imaging.md",
+              "sourceDirName": "high-level-architecture/modes-of-operation",
+              "slug": "/high-level-architecture/modes-of-operation/imaging",
+              "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/imaging",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/modes-of-operation/imaging.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "description": "Imaging Mode",
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Communications",
+                "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/communications"
+              },
+              "next": {
+                "title": "Inference",
+                "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/inference"
+              }
+            },
+            {
+              "unversionedId": "high-level-architecture/modes-of-operation/inference",
+              "id": "high-level-architecture/modes-of-operation/inference",
+              "title": "Inference",
+              "description": "Inference Mode",
+              "source": "@site/docs/high-level-architecture/modes-of-operation/inference.md",
+              "sourceDirName": "high-level-architecture/modes-of-operation",
+              "slug": "/high-level-architecture/modes-of-operation/inference",
+              "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/inference",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/modes-of-operation/inference.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "description": "Inference Mode",
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Imaging",
+                "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/imaging"
+              },
+              "next": {
+                "title": "Laboratory",
+                "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/laboratory"
+              }
+            },
+            {
+              "unversionedId": "high-level-architecture/modes-of-operation/laboratory",
+              "id": "high-level-architecture/modes-of-operation/laboratory",
+              "title": "Laboratory",
+              "description": "Laboratory Mode",
+              "source": "@site/docs/high-level-architecture/modes-of-operation/laboratory.md",
+              "sourceDirName": "high-level-architecture/modes-of-operation",
+              "slug": "/high-level-architecture/modes-of-operation/laboratory",
+              "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/laboratory",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/modes-of-operation/laboratory.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "description": "Laboratory Mode",
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Inference",
+                "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/inference"
+              },
+              "next": {
                 "title": "Supported Boards",
                 "permalink": "/documentation/docs/category/supported-boards"
+              }
+            },
+            {
+              "unversionedId": "high-level-architecture/modes-of-operation/safe",
+              "id": "high-level-architecture/modes-of-operation/safe",
+              "title": "Safe",
+              "description": "Safe Mode",
+              "source": "@site/docs/high-level-architecture/modes-of-operation/safe.md",
+              "sourceDirName": "high-level-architecture/modes-of-operation",
+              "slug": "/high-level-architecture/modes-of-operation/safe",
+              "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/safe",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/modes-of-operation/safe.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "description": "Safe Mode",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Modes of Operation",
+                "permalink": "/documentation/docs/category/modes-of-operation"
+              },
+              "next": {
+                "title": "Idle",
+                "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/idle"
+              }
+            },
+            {
+              "unversionedId": "high-level-architecture/services",
+              "id": "high-level-architecture/services",
+              "title": "Services",
+              "description": "What are services in AstroCore?",
+              "source": "@site/docs/high-level-architecture/services.md",
+              "sourceDirName": "high-level-architecture",
+              "slug": "/high-level-architecture/services",
+              "permalink": "/documentation/docs/high-level-architecture/services",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/services.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Services",
+                "description": "What are services in AstroCore?",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/documentation/docs/high-level-architecture/intro"
+              },
+              "next": {
+                "title": "Messaging",
+                "permalink": "/documentation/docs/high-level-architecture/messaging"
               }
             },
             {
@@ -488,6 +769,59 @@
                   {
                     "type": "doc",
                     "id": "high-level-architecture/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "high-level-architecture/services"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "high-level-architecture/messaging"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Modes of Operation",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "high-level-architecture/modes-of-operation/safe"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "high-level-architecture/modes-of-operation/idle"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "high-level-architecture/modes-of-operation/detumble"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "high-level-architecture/modes-of-operation/beaconing"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "high-level-architecture/modes-of-operation/communications"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "high-level-architecture/modes-of-operation/imaging"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "high-level-architecture/modes-of-operation/inference"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "high-level-architecture/modes-of-operation/laboratory"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/modes-of-operation",
+                      "permalink": "/documentation/docs/category/modes-of-operation"
+                    }
                   }
                 ],
                 "link": {

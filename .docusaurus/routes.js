@@ -109,7 +109,7 @@ export default [
   },
   {
     path: '/documentation/docs',
-    component: ComponentCreator('/documentation/docs', '679'),
+    component: ComponentCreator('/documentation/docs', 'f72'),
     routes: [
       {
         path: '/documentation/docs/category/astrocore-utilities',
@@ -132,6 +132,12 @@ export default [
       {
         path: '/documentation/docs/category/low-level-architecture',
         component: ComponentCreator('/documentation/docs/category/low-level-architecture', '357'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/category/modes-of-operation',
+        component: ComponentCreator('/documentation/docs/category/modes-of-operation', '529'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -162,6 +168,66 @@ export default [
       {
         path: '/documentation/docs/high-level-architecture/intro',
         component: ComponentCreator('/documentation/docs/high-level-architecture/intro', '1b2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/high-level-architecture/messaging',
+        component: ComponentCreator('/documentation/docs/high-level-architecture/messaging', 'a28'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/high-level-architecture/modes-of-operation/beaconing',
+        component: ComponentCreator('/documentation/docs/high-level-architecture/modes-of-operation/beaconing', 'e0e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/high-level-architecture/modes-of-operation/communications',
+        component: ComponentCreator('/documentation/docs/high-level-architecture/modes-of-operation/communications', '774'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/high-level-architecture/modes-of-operation/detumble',
+        component: ComponentCreator('/documentation/docs/high-level-architecture/modes-of-operation/detumble', '9c4'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/high-level-architecture/modes-of-operation/idle',
+        component: ComponentCreator('/documentation/docs/high-level-architecture/modes-of-operation/idle', '5c5'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/high-level-architecture/modes-of-operation/imaging',
+        component: ComponentCreator('/documentation/docs/high-level-architecture/modes-of-operation/imaging', 'df8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/high-level-architecture/modes-of-operation/inference',
+        component: ComponentCreator('/documentation/docs/high-level-architecture/modes-of-operation/inference', 'a80'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/high-level-architecture/modes-of-operation/laboratory',
+        component: ComponentCreator('/documentation/docs/high-level-architecture/modes-of-operation/laboratory', '397'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/high-level-architecture/modes-of-operation/safe',
+        component: ComponentCreator('/documentation/docs/high-level-architecture/modes-of-operation/safe', '29b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/high-level-architecture/services',
+        component: ComponentCreator('/documentation/docs/high-level-architecture/services', '073'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

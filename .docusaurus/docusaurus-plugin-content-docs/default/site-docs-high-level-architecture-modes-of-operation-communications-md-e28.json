@@ -1,0 +1,28 @@
+{
+  "unversionedId": "high-level-architecture/modes-of-operation/communications",
+  "id": "high-level-architecture/modes-of-operation/communications",
+  "title": "Communications",
+  "description": "Communications Mode",
+  "source": "@site/docs/high-level-architecture/modes-of-operation/communications.md",
+  "sourceDirName": "high-level-architecture/modes-of-operation",
+  "slug": "/high-level-architecture/modes-of-operation/communications",
+  "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/communications",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/modes-of-operation/communications.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "description": "Communications Mode",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Beaconing",
+    "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/beaconing"
+  },
+  "next": {
+    "title": "Imaging",
+    "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/imaging"
+  }
+}

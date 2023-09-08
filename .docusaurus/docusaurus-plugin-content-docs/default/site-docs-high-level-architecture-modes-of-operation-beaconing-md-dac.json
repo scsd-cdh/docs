@@ -1,0 +1,28 @@
+{
+  "unversionedId": "high-level-architecture/modes-of-operation/beaconing",
+  "id": "high-level-architecture/modes-of-operation/beaconing",
+  "title": "Beaconing",
+  "description": "Beaconing Mode",
+  "source": "@site/docs/high-level-architecture/modes-of-operation/beaconing.md",
+  "sourceDirName": "high-level-architecture/modes-of-operation",
+  "slug": "/high-level-architecture/modes-of-operation/beaconing",
+  "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/beaconing",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/modes-of-operation/beaconing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "description": "Beaconing Mode",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Detumbling",
+    "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/detumble"
+  },
+  "next": {
+    "title": "Communications",
+    "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/communications"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "high-level-architecture/services",
+  "id": "high-level-architecture/services",
+  "title": "Services",
+  "description": "What are services in AstroCore?",
+  "source": "@site/docs/high-level-architecture/services.md",
+  "sourceDirName": "high-level-architecture",
+  "slug": "/high-level-architecture/services",
+  "permalink": "/documentation/docs/high-level-architecture/services",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/services.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Services",
+    "description": "What are services in AstroCore?",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/documentation/docs/high-level-architecture/intro"
+  },
+  "next": {
+    "title": "Messaging",
+    "permalink": "/documentation/docs/high-level-architecture/messaging"
+  }
+}
