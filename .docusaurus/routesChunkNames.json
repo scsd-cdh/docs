@@ -200,7 +200,7 @@
     },
     "config": "config---documentation-my-react-page-5-e-9-b5b"
   },
-  "/documentation/docs-d78": {
+  "/documentation/docs-679": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---documentation-docs-5-fa-58d"
@@ -231,6 +231,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-docs-getting-started-aliree-90-318"
   },
+  "/documentation/docs/getting-started/ide-3c9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-getting-started-ide-754-91f"
+  },
   "/documentation/docs/getting-started/renode-563": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-docs-getting-started-renodeac-0-c5e"
@@ -246,6 +250,10 @@
   "/documentation/docs/low-level-architecture/bsp-759": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-docs-low-level-architecture-bsp-49-b-001"
+  },
+  "/documentation/docs/low-level-architecture/config-5d3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-low-level-architecture-config-4-a-2-d47"
   },
   "/documentation/docs/low-level-architecture/hal-ece": {
     "__comp": "__comp---theme-doc-item-178-a40",

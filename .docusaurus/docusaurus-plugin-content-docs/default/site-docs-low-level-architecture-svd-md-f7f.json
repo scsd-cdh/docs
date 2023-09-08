@@ -23,7 +23,7 @@
     "permalink": "/documentation/docs/low-level-architecture/hal"
   },
   "next": {
-    "title": "Middleware",
-    "permalink": "/documentation/docs/low-level-architecture/middleware"
+    "title": "Configuration Crate",
+    "permalink": "/documentation/docs/low-level-architecture/config"
   }
 }

@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Getting Started",
-    "permalink": "/documentation/docs/category/getting-started"
+    "title": "IDE",
+    "permalink": "/documentation/docs/getting-started/ide"
   },
   "next": {
     "title": "Renode",

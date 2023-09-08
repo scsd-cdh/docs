@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "SVD Bindings",
-    "permalink": "/documentation/docs/low-level-architecture/svd"
+    "title": "Configuration Crate",
+    "permalink": "/documentation/docs/low-level-architecture/config"
   },
   "next": {
     "title": "High-Level Architecture",

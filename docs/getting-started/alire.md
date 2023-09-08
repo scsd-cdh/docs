@@ -4,6 +4,8 @@ description: How to install and use the Alire package manager.
 
 # Alire
 
+## Introduction
+
 Alire serves as a package manager tailored for the Ada and SPARK programming languages.
 
 Within Alire, the building blocks of projects, libraries, and programs are referred to as `crates`. These crates can establish dependencies on other crates, which in turn can have their dependencies.

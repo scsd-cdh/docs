@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "getting-started/ide",
+              "path": "/documentation/docs/getting-started/ide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "getting-started/renode",
               "path": "/documentation/docs/getting-started/renode",
               "sidebar": "tutorialSidebar"
@@ -33,6 +38,11 @@
             {
               "id": "low-level-architecture/bsp",
               "path": "/documentation/docs/low-level-architecture/bsp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "low-level-architecture/config",
+              "path": "/documentation/docs/low-level-architecture/config",
               "sidebar": "tutorialSidebar"
             },
             {

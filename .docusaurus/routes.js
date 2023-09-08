@@ -109,7 +109,7 @@ export default [
   },
   {
     path: '/documentation/docs',
-    component: ComponentCreator('/documentation/docs', 'd78'),
+    component: ComponentCreator('/documentation/docs', '679'),
     routes: [
       {
         path: '/documentation/docs/category/astrocore-utilities',
@@ -148,6 +148,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/documentation/docs/getting-started/ide',
+        component: ComponentCreator('/documentation/docs/getting-started/ide', '3c9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/documentation/docs/getting-started/renode',
         component: ComponentCreator('/documentation/docs/getting-started/renode', '563'),
         exact: true,
@@ -168,6 +174,12 @@ export default [
       {
         path: '/documentation/docs/low-level-architecture/bsp',
         component: ComponentCreator('/documentation/docs/low-level-architecture/bsp', '759'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/low-level-architecture/config',
+        component: ComponentCreator('/documentation/docs/low-level-architecture/config', '5d3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

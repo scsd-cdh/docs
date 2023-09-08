@@ -37,12 +37,41 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Getting Started",
-                "permalink": "/documentation/docs/category/getting-started"
+                "title": "IDE",
+                "permalink": "/documentation/docs/getting-started/ide"
               },
               "next": {
                 "title": "Renode",
                 "permalink": "/documentation/docs/getting-started/renode"
+              }
+            },
+            {
+              "unversionedId": "getting-started/ide",
+              "id": "getting-started/ide",
+              "title": "IDE",
+              "description": "Installing and configuring the Integrated Development Environment (IDE).",
+              "source": "@site/docs/getting-started/ide.md",
+              "sourceDirName": "getting-started",
+              "slug": "/getting-started/ide",
+              "permalink": "/documentation/docs/getting-started/ide",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/getting-started/ide.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "IDE",
+                "description": "Installing and configuring the Integrated Development Environment (IDE).",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/documentation/docs/category/getting-started"
+              },
+              "next": {
+                "title": "Alire",
+                "permalink": "/documentation/docs/getting-started/alire"
               }
             },
             {
@@ -154,6 +183,35 @@
               }
             },
             {
+              "unversionedId": "low-level-architecture/config",
+              "id": "low-level-architecture/config",
+              "title": "Configuration Crate",
+              "description": "Implementation of the configuration crate.",
+              "source": "@site/docs/low-level-architecture/config.md",
+              "sourceDirName": "low-level-architecture",
+              "slug": "/low-level-architecture/config",
+              "permalink": "/documentation/docs/low-level-architecture/config",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/config.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "Configuration Crate",
+                "description": "Implementation of the configuration crate.",
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SVD Bindings",
+                "permalink": "/documentation/docs/low-level-architecture/svd"
+              },
+              "next": {
+                "title": "Middleware",
+                "permalink": "/documentation/docs/low-level-architecture/middleware"
+              }
+            },
+            {
               "unversionedId": "low-level-architecture/hal",
               "id": "low-level-architecture/hal",
               "title": "Hardware Abstraction Layer",
@@ -232,8 +290,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "SVD Bindings",
-                "permalink": "/documentation/docs/low-level-architecture/svd"
+                "title": "Configuration Crate",
+                "permalink": "/documentation/docs/low-level-architecture/config"
               },
               "next": {
                 "title": "High-Level Architecture",
@@ -265,8 +323,8 @@
                 "permalink": "/documentation/docs/low-level-architecture/hal"
               },
               "next": {
-                "title": "Middleware",
-                "permalink": "/documentation/docs/low-level-architecture/middleware"
+                "title": "Configuration Crate",
+                "permalink": "/documentation/docs/low-level-architecture/config"
               }
             },
             {
@@ -367,6 +425,10 @@
                 "items": [
                   {
                     "type": "doc",
+                    "id": "getting-started/ide"
+                  },
+                  {
+                    "type": "doc",
                     "id": "getting-started/alire"
                   },
                   {
@@ -401,6 +463,10 @@
                   {
                     "type": "doc",
                     "id": "low-level-architecture/svd"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "low-level-architecture/config"
                   },
                   {
                     "type": "doc",

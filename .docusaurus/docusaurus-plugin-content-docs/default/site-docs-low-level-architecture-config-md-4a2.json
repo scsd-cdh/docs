@@ -1,0 +1,29 @@
+{
+  "unversionedId": "low-level-architecture/config",
+  "id": "low-level-architecture/config",
+  "title": "Configuration Crate",
+  "description": "Implementation of the configuration crate.",
+  "source": "@site/docs/low-level-architecture/config.md",
+  "sourceDirName": "low-level-architecture",
+  "slug": "/low-level-architecture/config",
+  "permalink": "/documentation/docs/low-level-architecture/config",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/config.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Configuration Crate",
+    "description": "Implementation of the configuration crate.",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SVD Bindings",
+    "permalink": "/documentation/docs/low-level-architecture/svd"
+  },
+  "next": {
+    "title": "Middleware",
+    "permalink": "/documentation/docs/low-level-architecture/middleware"
+  }
+}
