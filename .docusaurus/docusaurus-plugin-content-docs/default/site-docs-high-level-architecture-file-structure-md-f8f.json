@@ -1,0 +1,27 @@
+{
+  "unversionedId": "high-level-architecture/file-structure",
+  "id": "high-level-architecture/file-structure",
+  "title": "File Structure",
+  "description": "Definition of what an AstroCore project's file structure will contain.",
+  "source": "@site/docs/high-level-architecture/file-structure.md",
+  "sourceDirName": "high-level-architecture",
+  "slug": "/high-level-architecture/file-structure",
+  "permalink": "/documentation/docs/high-level-architecture/file-structure",
+  "draft": false,
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/file-structure.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "File Structure",
+    "description": "Definition of what an AstroCore project's file structure will contain."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Messaging",
+    "permalink": "/documentation/docs/high-level-architecture/messaging"
+  },
+  "next": {
+    "title": "Modes of Operation",
+    "permalink": "/documentation/docs/category/modes-of-operation"
+  }
+}

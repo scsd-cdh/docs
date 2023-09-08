@@ -112,6 +112,12 @@
             "docId": "high-level-architecture/messaging"
           },
           {
+            "type": "link",
+            "label": "File Structure",
+            "href": "/documentation/docs/high-level-architecture/file-structure",
+            "docId": "high-level-architecture/file-structure"
+          },
+          {
             "type": "category",
             "label": "Modes of Operation",
             "collapsible": true,
@@ -231,6 +237,12 @@
       "description": "How to use and install Renode for emulating boards.",
       "sidebar": "tutorialSidebar"
     },
+    "high-level-architecture/file-structure": {
+      "id": "high-level-architecture/file-structure",
+      "title": "File Structure",
+      "description": "Definition of what an AstroCore project's file structure will contain.",
+      "sidebar": "tutorialSidebar"
+    },
     "high-level-architecture/intro": {
       "id": "high-level-architecture/intro",
       "title": "Introduction",
@@ -294,7 +306,7 @@
     "high-level-architecture/services": {
       "id": "high-level-architecture/services",
       "title": "Services",
-      "description": "What are services in AstroCore?",
+      "description": "What are the services available in AstroCore?",
       "sidebar": "tutorialSidebar"
     },
     "intro": {

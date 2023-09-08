@@ -4,8 +4,8 @@
   "permalink": "/documentation/docs/category/modes-of-operation",
   "navigation": {
     "previous": {
-      "title": "Messaging",
-      "permalink": "/documentation/docs/high-level-architecture/messaging"
+      "title": "File Structure",
+      "permalink": "/documentation/docs/high-level-architecture/file-structure"
     },
     "next": {
       "title": "Safe",

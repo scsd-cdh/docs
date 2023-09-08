@@ -26,6 +26,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "high-level-architecture/file-structure",
+              "path": "/documentation/docs/high-level-architecture/file-structure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "high-level-architecture/intro",
               "path": "/documentation/docs/high-level-architecture/intro",
               "sidebar": "tutorialSidebar"

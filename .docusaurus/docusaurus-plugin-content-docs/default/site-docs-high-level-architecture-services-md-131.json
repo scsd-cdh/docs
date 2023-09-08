@@ -2,7 +2,7 @@
   "unversionedId": "high-level-architecture/services",
   "id": "high-level-architecture/services",
   "title": "Services",
-  "description": "What are services in AstroCore?",
+  "description": "What are the services available in AstroCore?",
   "source": "@site/docs/high-level-architecture/services.md",
   "sourceDirName": "high-level-architecture",
   "slug": "/high-level-architecture/services",
@@ -14,7 +14,7 @@
   "sidebarPosition": 2,
   "frontMatter": {
     "title": "Services",
-    "description": "What are services in AstroCore?",
+    "description": "What are the services available in AstroCore?",
     "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",

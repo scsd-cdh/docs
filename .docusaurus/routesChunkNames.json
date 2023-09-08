@@ -200,7 +200,7 @@
     },
     "config": "config---documentation-my-react-page-5-e-9-b5b"
   },
-  "/documentation/docs-f72": {
+  "/documentation/docs-57c": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---documentation-docs-5-fa-58d"
@@ -242,6 +242,10 @@
   "/documentation/docs/getting-started/renode-563": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-docs-getting-started-renodeac-0-c5e"
+  },
+  "/documentation/docs/high-level-architecture/file-structure-9d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-high-level-architecture-file-structuref-8-f-261"
   },
   "/documentation/docs/high-level-architecture/intro-1b2": {
     "__comp": "__comp---theme-doc-item-178-a40",

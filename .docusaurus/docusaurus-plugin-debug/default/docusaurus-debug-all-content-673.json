@@ -101,6 +101,33 @@
               }
             },
             {
+              "unversionedId": "high-level-architecture/file-structure",
+              "id": "high-level-architecture/file-structure",
+              "title": "File Structure",
+              "description": "Definition of what an AstroCore project's file structure will contain.",
+              "source": "@site/docs/high-level-architecture/file-structure.md",
+              "sourceDirName": "high-level-architecture",
+              "slug": "/high-level-architecture/file-structure",
+              "permalink": "/documentation/docs/high-level-architecture/file-structure",
+              "draft": false,
+              "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/file-structure.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "File Structure",
+                "description": "Definition of what an AstroCore project's file structure will contain."
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Messaging",
+                "permalink": "/documentation/docs/high-level-architecture/messaging"
+              },
+              "next": {
+                "title": "Modes of Operation",
+                "permalink": "/documentation/docs/category/modes-of-operation"
+              }
+            },
+            {
               "unversionedId": "high-level-architecture/intro",
               "id": "high-level-architecture/intro",
               "title": "Introduction",
@@ -153,8 +180,8 @@
                 "permalink": "/documentation/docs/high-level-architecture/services"
               },
               "next": {
-                "title": "Modes of Operation",
-                "permalink": "/documentation/docs/category/modes-of-operation"
+                "title": "File Structure",
+                "permalink": "/documentation/docs/high-level-architecture/file-structure"
               }
             },
             {
@@ -385,7 +412,7 @@
               "unversionedId": "high-level-architecture/services",
               "id": "high-level-architecture/services",
               "title": "Services",
-              "description": "What are services in AstroCore?",
+              "description": "What are the services available in AstroCore?",
               "source": "@site/docs/high-level-architecture/services.md",
               "sourceDirName": "high-level-architecture",
               "slug": "/high-level-architecture/services",
@@ -397,7 +424,7 @@
               "sidebarPosition": 2,
               "frontMatter": {
                 "title": "Services",
-                "description": "What are services in AstroCore?",
+                "description": "What are the services available in AstroCore?",
                 "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
@@ -777,6 +804,10 @@
                   {
                     "type": "doc",
                     "id": "high-level-architecture/messaging"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "high-level-architecture/file-structure"
                   },
                   {
                     "type": "category",

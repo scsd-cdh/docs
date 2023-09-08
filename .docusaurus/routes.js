@@ -109,7 +109,7 @@ export default [
   },
   {
     path: '/documentation/docs',
-    component: ComponentCreator('/documentation/docs', 'f72'),
+    component: ComponentCreator('/documentation/docs', '57c'),
     routes: [
       {
         path: '/documentation/docs/category/astrocore-utilities',
@@ -162,6 +162,12 @@ export default [
       {
         path: '/documentation/docs/getting-started/renode',
         component: ComponentCreator('/documentation/docs/getting-started/renode', '563'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/documentation/docs/high-level-architecture/file-structure',
+        component: ComponentCreator('/documentation/docs/high-level-architecture/file-structure', '9d8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
