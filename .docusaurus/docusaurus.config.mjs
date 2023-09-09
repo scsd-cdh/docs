@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\thoma\\OneDrive\\Documents\\GitHub\\documentation\\sidebars.js",
+          "sidebarPath": "/Users/malek/Documents/prog/documentation/sidebars.js",
           "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/"
         },
         "theme": {
-          "customCss": "C:\\Users\\thoma\\OneDrive\\Documents\\GitHub\\documentation\\src\\css\\custom.css"
+          "customCss": "/Users/malek/Documents/prog/documentation/src/css/custom.css"
         }
       }
     ]

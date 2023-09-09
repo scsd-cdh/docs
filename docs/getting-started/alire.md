@@ -35,7 +35,11 @@ To ensure a smooth installation process and avoid potential conflicts later when
 4. You're done!
 
 ### macOS
-*To do*
+1. Get the Alire installer from [the official website](https://alire.ada.dev/).
+2. Extract the contents of the archive.
+3. Move the `alr` binary to a location in your PATH (e.g., /usr/bin/ or ~/.local/bin/) or add the location of the binary to your ~/.bash_profile.
+4. If you try to run it and you get a popup saying `"alr" cannot be opened because the developer cannot be verified`, then run `xattr -d com.apple.quarantine bin/alr` to remove the quarantine attribute on the binary.
+5. You're done!
 
 ## Creating a New Crate
 
@@ -54,14 +58,14 @@ The first time you run the `alr init` command, Alire will prompt you for the fol
 To create an executable with Alire, you can use the following command:
 
 ```bash
-$ alr init --bin <crate_name>
+alr init --bin <crate_name>
 ```
 
 ### Libraries
 To create a library with Alire, you can use the following command:
 
 ```bash
-$ alr init --lib <crate_name>
+alr init --lib <crate_name>
 ```
 
 ## Building and Running the Crate
@@ -70,12 +74,12 @@ After creating your crate using Alire, you can compile and run it easily. Here a
 Navigate to your crate directory using the command line.
 
 ```bash
-$ cd <crate_name>
+cd <crate_name>
 ```
 
 To build your crate, use the following command:
 ```bash
-$ alr build
+alr build
 ```
 
 This command will compile your crate and generate the necessary binaries.
@@ -83,12 +87,12 @@ This command will compile your crate and generate the necessary binaries.
 Once the build process is complete, you can run your crate by executing the generated binary. For executable crates, this is typically the same as your project name:
 
 ```bash
-$ ./<project_name>
+./<project_name>
 ```
 
 To build & run your crate in one step, use the following command:
 ```bash
-$ alr run
+alr run
 ```
 
 For library crates, you will need to integrate the library into your application or project.
@@ -96,8 +100,8 @@ For library crates, you will need to integrate the library into your application
 ## Using the Space Concordia Alire Index
 In order to let Alire find crates managed by Space Concordia, you may use the following command:
 
-```
-$ alr index --add git+https://github.com/scs-cdh/alire-index.git#stable-1.2.1 --name scs-cdh
+```bash
+alr index --add git+https://github.com/scs-cdh/alire-index.git#stable-1.2.1 --name scs_cdh
 ```
 
 This will add the Space Concordia index to your Alire installation. As an example, this will allow you to add a dependency to projects such as `astrocore`.
