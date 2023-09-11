@@ -1,17 +1,19 @@
 {
   "unversionedId": "getting-started/alire",
   "id": "getting-started/alire",
-  "title": "alire",
-  "description": "---",
-  "source": "@site/docs/getting-started/alire.md",
+  "title": "Alire",
+  "description": "How to install and use the Alire package manager.",
+  "source": "@site/docs/getting-started/alire.mdx",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/alire",
   "permalink": "/documentation/docs/getting-started/alire",
   "draft": false,
-  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/getting-started/alire.md",
+  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/getting-started/alire.mdx",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "description": "How to install and use the Alire package manager."
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "IDE",

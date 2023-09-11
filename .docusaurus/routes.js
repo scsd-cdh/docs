@@ -109,7 +109,7 @@ export default [
   },
   {
     path: '/documentation/docs',
-    component: ComponentCreator('/documentation/docs', 'ab5'),
+    component: ComponentCreator('/documentation/docs', '484'),
     routes: [
       {
         path: '/documentation/docs/category/astrocore-utilities',
@@ -149,7 +149,7 @@ export default [
       },
       {
         path: '/documentation/docs/getting-started/alire',
-        component: ComponentCreator('/documentation/docs/getting-started/alire', '2ea'),
+        component: ComponentCreator('/documentation/docs/getting-started/alire', '7d4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

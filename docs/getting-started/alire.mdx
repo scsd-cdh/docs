@@ -1,6 +1,8 @@
 ---
 description: How to install and use the Alire package manager.
 ---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 # Alire
 
@@ -22,24 +24,40 @@ This section is meant to explain the basics of using the Alire package manager, 
 To ensure a smooth installation process and avoid potential conflicts later when installing the toolchains, it is crucial to **fully uninstall** GNAT Community 2021 from your computer before proceeding.
 :::
 
-### Windows
-1. Get the Alire installer from [the official website](https://alire.ada.dev/).
-2. Run the installer executable and complete the setup process.
-3. During the installation process, you will be asked if you want to install `msys2`. It is recommended to do so as it will automatically install missing tools such as `git` or `make`.
-3. You're done!
 
-### Linux
-1. Get the Alire installer from [the official website](https://alire.ada.dev/).
-2. Extract the contents of the archive.
-3. Move the `alr` binary to a location in your PATH (e.g., /usr/bin/ or ~/.local/bin/).
-4. You're done!
+<Tabs>
+  <TabItem value="windows" label="Windows" default>
 
-### macOS
-1. Get the Alire installer from [the official website](https://alire.ada.dev/).
-2. Extract the contents of the archive.
-3. Move the `alr` binary to a location in your PATH (e.g., /usr/bin/ or ~/.local/bin/) or add the location of the binary to your ~/.bash_profile.
-4. If you try to run it and you get a popup saying `"alr" cannot be opened because the developer cannot be verified`, then run `xattr -d com.apple.quarantine bin/alr` to remove the quarantine attribute on the binary.
-5. You're done!
+
+  1. Get the Alire installer from [the official website](https://alire.ada.dev/).
+  2. Run the installer executable and complete the setup process.
+  3. During the installation process, you will be asked if you want to install `msys2`. It is recommended to do so as it will automatically install missing tools such as `git` or `make`.
+  4. You're done!
+
+
+  </TabItem>
+  <TabItem value="linux" label="Linux">
+    
+
+  1. Get the Alire installer from [the official website](https://alire.ada.dev/).
+  2. Extract the contents of the archive.
+  3. Move the `alr` binary to a location in your PATH (e.g., /usr/bin/ or ~/.local/bin/).
+  4. You're done!
+
+
+  </TabItem>
+  <TabItem value="macOS" label="macOS">
+
+
+  1. Get the Alire installer from [the official website](https://alire.ada.dev/).
+  2. Extract the contents of the archive.
+  3. Move the `alr` binary to a location in your PATH (e.g., /usr/bin/ or ~/.local/bin/) or add the location of the binary to your ~/.bash_profile.
+  4. If you get a popup saying `"alr" cannot be opened because the developer cannot be verified` when you run `alr`, then run `xattr -d com.apple.quarantine bin/alr` to remove the quarantine attribute on the binary.
+  5. You're done!
+
+
+  </TabItem>
+</Tabs>
 
 ## Creating a New Crate
 
