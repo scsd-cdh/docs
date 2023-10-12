@@ -1,17 +1,17 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 const organizationName = "scsd-cdh";
-const projectName = "documentation";
+const projectName = "docs";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'SCSD CDH Team',
-  tagline: 'Crafting software for CubeSat missions 🛰️',
-  favicon: 'img/logo.png',
+  title: "SCSD CDH Team",
+  tagline: "Crafting software for CubeSat missions 🛰️",
+  favicon: "img/logo.png",
 
   // Set the production url of your site here
   url: `https://${organizationName}.github.io`,
@@ -23,24 +23,24 @@ const config = {
   organizationName,
   projectName,
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve("./sidebars.js"),
           editUrl: `https://github.com/${organizationName}/${projectName}/tree/main/`,
         },
         blog: {
@@ -48,7 +48,7 @@ const config = {
           editUrl: `https://github.com/${organizationName}/${projectName}/tree/main/`,
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       }),
     ],
@@ -58,25 +58,25 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: 'SCSD-CDH',
+        title: "SCSD-CDH",
         logo: {
-          alt: 'SCSD-CDH Site Logo',
-          src: 'img/logo.png',
+          alt: "SCSD-CDH Site Logo",
+          src: "img/logo.png",
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Docs',
+            type: "docSidebar",
+            sidebarId: "tutorialSidebar",
+            position: "left",
+            label: "Docs",
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: "/blog", label: "Blog", position: "left" },
           {
-            href: 'https://github.com/scsd-cdh',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://github.com/scsd-cdh",
+            label: "GitHub",
+            position: "right",
           },
         ],
       },
