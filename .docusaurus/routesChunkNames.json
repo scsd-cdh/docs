@@ -1,341 +1,161 @@
 {
-  "/documentation/__docusaurus/debug-b40": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/docs/markdown-page-9e1": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---documentation-docusaurus-debug-8-ba-b55"
-    }
-  },
-  "/documentation/__docusaurus/debug/config-99b": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---documentation-docusaurus-debug-8-ba-b55"
-    }
-  },
-  "/documentation/__docusaurus/debug/content-556": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---documentation-docusaurus-debug-8-ba-b55"
+      "plugin": "a129f3e8"
     },
-    "allContent": "allContent---documentation-docusaurus-debug-content-246-1fc"
+    "content": "393be207"
   },
-  "/documentation/__docusaurus/debug/globalData-e90": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
+  "/docs/my-markdown-page-2ff": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---documentation-docusaurus-debug-8-ba-b55"
-    }
-  },
-  "/documentation/__docusaurus/debug/metadata-3d9": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---documentation-docusaurus-debug-8-ba-b55"
-    }
-  },
-  "/documentation/__docusaurus/debug/registry-7f4": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---documentation-docusaurus-debug-8-ba-b55"
-    }
-  },
-  "/documentation/__docusaurus/debug/routes-351": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---documentation-docusaurus-debug-8-ba-b55"
-    }
-  },
-  "/documentation/blog-47f": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---documentation-blog-27-e-4d8"
+      "plugin": "a129f3e8"
     },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
-    "items": [
-      {
-        "content": "content---documentation-blog-766-b7c"
-      },
-      {
-        "content": "content---documentation-blogf-4-f-d91"
-      },
-      {
-        "content": "content---documentation-blog-871-8ad"
-      },
-      {
-        "content": "content---documentation-blog-925-287"
-      }
-    ],
-    "metadata": "metadata---documentation-blog-14-e-a5c"
+    "content": "03181aef"
   },
-  "/documentation/blog/archive-2b3": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+  "/docs/my-react-page-ac7": {
+    "__comp": "fde8ea54",
     "__context": {
-      "plugin": "plugin---documentation-blog-27-e-4d8"
+      "plugin": "a129f3e8"
     },
-    "archive": "archive---documentation-blog-archiveeda-964"
+    "config": "5e9f5e1a"
   },
-  "/documentation/blog/first-blog-post-543": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/docs/-7b0": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---documentation-blog-27-e-4d8"
+      "plugin": "a129f3e8"
     },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
-    "content": "content---documentation-blog-first-blog-poste-27-d09"
+    "config": "5e9f5e1a"
   },
-  "/documentation/blog/long-blog-post-927": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/docs/-f38": {
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---documentation-blog-27-e-4d8"
+      "plugin": "5494d7c0"
     },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
-    "content": "content---documentation-blog-long-blog-post-736-0f6"
+    "versionMetadata": "935f2afb"
   },
-  "/documentation/blog/mdx-blog-post-959": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---documentation-blog-27-e-4d8"
-    },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
-    "content": "content---documentation-blog-mdx-blog-post-593-1de"
+  "/docs/category/astrocore-utilities-9dd": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "9770799d"
   },
-  "/documentation/blog/tags-f4e": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
-    "__context": {
-      "plugin": "plugin---documentation-blog-27-e-4d8"
-    },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
-    "tags": "tags---documentation-blog-tags-673-362"
+  "/docs/category/getting-started-01f": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "3152febb"
   },
-  "/documentation/blog/tags/docusaurus-03a": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---documentation-blog-27-e-4d8"
-    },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
-    "items": [
-      {
-        "content": "content---documentation-blog-766-b7c"
-      },
-      {
-        "content": "content---documentation-blogf-4-f-d91"
-      },
-      {
-        "content": "content---documentation-blog-871-8ad"
-      },
-      {
-        "content": "content---documentation-blog-925-287"
-      }
-    ],
-    "tag": "tag---documentation-blog-tags-docusaurus-911-3a9",
-    "listMetadata": "listMetadata---documentation-blog-tags-docusaurusb-53-274"
+  "/docs/category/high-level-architecture-de7": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "4abc4402"
   },
-  "/documentation/blog/tags/facebook-535": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---documentation-blog-27-e-4d8"
-    },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
-    "items": [
-      {
-        "content": "content---documentation-blog-766-b7c"
-      }
-    ],
-    "tag": "tag---documentation-blog-tags-facebookde-8-e67",
-    "listMetadata": "listMetadata---documentation-blog-tags-facebook-84-f-518"
+  "/docs/category/low-level-architecture-d20": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "359320d4"
   },
-  "/documentation/blog/tags/hello-8c0": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---documentation-blog-27-e-4d8"
-    },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
-    "items": [
-      {
-        "content": "content---documentation-blog-766-b7c"
-      },
-      {
-        "content": "content---documentation-blog-871-8ad"
-      }
-    ],
-    "tag": "tag---documentation-blog-tags-hello-6-a-7-056",
-    "listMetadata": "listMetadata---documentation-blog-tags-hello-3-c-8-390"
+  "/docs/category/modes-of-operation-7fd": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "3682c964"
   },
-  "/documentation/blog/tags/hola-45d": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---documentation-blog-27-e-4d8"
-    },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
-    "items": [
-      {
-        "content": "content---documentation-blog-925-287"
-      }
-    ],
-    "tag": "tag---documentation-blog-tags-hola-21-a-013",
-    "listMetadata": "listMetadata---documentation-blog-tags-hola-4-b-4-dfd"
+  "/docs/category/supported-boards-639": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "b561d353"
   },
-  "/documentation/blog/welcome-afb": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
-    "__context": {
-      "plugin": "plugin---documentation-blog-27-e-4d8"
-    },
-    "sidebar": "sidebar---documentation-blog-814-bc6",
-    "content": "content---documentation-blog-welcomed-9-f-7d3"
+  "/docs/getting-started/alire-8ea": {
+    "__comp": "17896441",
+    "content": "4cccaa8d"
   },
-  "/documentation/markdown-page-897": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
-    "__context": {
-      "plugin": "plugin---documentation-markdown-page-350-40c"
-    },
-    "content": "content---documentation-markdown-page-393-bce"
+  "/docs/getting-started/ide-dbb": {
+    "__comp": "17896441",
+    "content": "7549552f"
   },
-  "/documentation/my-markdown-page-21a": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
-    "__context": {
-      "plugin": "plugin---documentation-markdown-page-350-40c"
-    },
-    "content": "content---documentation-my-markdown-page-031-851"
+  "/docs/getting-started/renode-864": {
+    "__comp": "17896441",
+    "content": "11213e1d"
   },
-  "/documentation/my-react-page-b8b": {
-    "__comp": "__comp---site-src-pages-my-react-page-jsxfde-b9f",
-    "__context": {
-      "plugin": "plugin---documentation-markdown-page-350-40c"
-    },
-    "config": "config---documentation-my-react-page-5-e-9-b5b"
+  "/docs/high-level-architecture/file-structure-ad9": {
+    "__comp": "17896441",
+    "content": "f8f3b45e"
   },
-  "/documentation/docs-047": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
-    "__context": {
-      "plugin": "plugin---documentation-docs-605-0d9"
-    },
-    "versionMetadata": "versionMetadata---documentation-docs-935-d3e"
+  "/docs/high-level-architecture/intro-eba": {
+    "__comp": "17896441",
+    "content": "a3b3e2dc"
   },
-  "/documentation/docs/category/astrocore-utilities-cd8": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-astrocore-utilitiesb-40-02e"
+  "/docs/high-level-architecture/messaging-e08": {
+    "__comp": "17896441",
+    "content": "687383a5"
   },
-  "/documentation/docs/category/getting-started-76f": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-getting-startedfdd-539"
+  "/docs/high-level-architecture/modes-of-operation/beaconing-93b": {
+    "__comp": "17896441",
+    "content": "dacb4eb4"
   },
-  "/documentation/docs/category/high-level-architecture-4f2": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-high-level-architecturefa-5-6f0"
+  "/docs/high-level-architecture/modes-of-operation/communications-f5b": {
+    "__comp": "17896441",
+    "content": "e28b57dd"
   },
-  "/documentation/docs/category/low-level-architecture-357": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-low-level-architecture-837-18c"
+  "/docs/high-level-architecture/modes-of-operation/detumble-355": {
+    "__comp": "17896441",
+    "content": "e40d6e1f"
   },
-  "/documentation/docs/category/modes-of-operation-529": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-modes-of-operation-02-b-acb"
+  "/docs/high-level-architecture/modes-of-operation/idle-806": {
+    "__comp": "17896441",
+    "content": "8e3c6904"
   },
-  "/documentation/docs/category/supported-boards-d34": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---documentation-docs-category-supported-boards-7-eb-cba"
+  "/docs/high-level-architecture/modes-of-operation/imaging-f94": {
+    "__comp": "17896441",
+    "content": "74b09a51"
   },
-  "/documentation/docs/getting-started/alire-7d4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-getting-started-alire-4-cc-bed"
+  "/docs/high-level-architecture/modes-of-operation/inference-9a4": {
+    "__comp": "17896441",
+    "content": "9d00552e"
   },
-  "/documentation/docs/getting-started/ide-3c9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-getting-started-ide-754-91f"
+  "/docs/high-level-architecture/modes-of-operation/laboratory-57d": {
+    "__comp": "17896441",
+    "content": "d512fb4b"
   },
-  "/documentation/docs/getting-started/renode-9b6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-getting-started-renode-112-028"
+  "/docs/high-level-architecture/modes-of-operation/safe-c2d": {
+    "__comp": "17896441",
+    "content": "69dbf729"
   },
-  "/documentation/docs/high-level-architecture/file-structure-9d8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-high-level-architecture-file-structuref-8-f-261"
+  "/docs/high-level-architecture/services-759": {
+    "__comp": "17896441",
+    "content": "13109613"
   },
-  "/documentation/docs/high-level-architecture/intro-1b2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-high-level-architecture-introa-3-b-05c"
+  "/docs/intro-aed": {
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
-  "/documentation/docs/high-level-architecture/messaging-a28": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-high-level-architecture-messaging-687-acf"
+  "/docs/low-level-architecture/bsp-4bd": {
+    "__comp": "17896441",
+    "content": "49b8eec3"
   },
-  "/documentation/docs/high-level-architecture/modes-of-operation/beaconing-e0e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-high-level-architecture-modes-of-operation-beaconingdac-69b"
+  "/docs/low-level-architecture/config-66f": {
+    "__comp": "17896441",
+    "content": "4a209333"
   },
-  "/documentation/docs/high-level-architecture/modes-of-operation/communications-774": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-high-level-architecture-modes-of-operation-communicationse-28-03c"
+  "/docs/low-level-architecture/hal-ce1": {
+    "__comp": "17896441",
+    "content": "9424cf12"
   },
-  "/documentation/docs/high-level-architecture/modes-of-operation/detumble-9c4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-high-level-architecture-modes-of-operation-detumblee-40-3d5"
+  "/docs/low-level-architecture/intro-c61": {
+    "__comp": "17896441",
+    "content": "1e4e8831"
   },
-  "/documentation/docs/high-level-architecture/modes-of-operation/idle-5c5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-high-level-architecture-modes-of-operation-idle-8-e-3-ee6"
+  "/docs/low-level-architecture/middleware-a1a": {
+    "__comp": "17896441",
+    "content": "78050772"
   },
-  "/documentation/docs/high-level-architecture/modes-of-operation/imaging-df8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-high-level-architecture-modes-of-operation-imaging-74-b-9c8"
+  "/docs/low-level-architecture/svd-baf": {
+    "__comp": "17896441",
+    "content": "f7f6e27a"
   },
-  "/documentation/docs/high-level-architecture/modes-of-operation/inference-a80": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-high-level-architecture-modes-of-operation-inference-9-d-0-1fc"
+  "/docs/supported-boards/intro-be1": {
+    "__comp": "17896441",
+    "content": "4fb77949"
   },
-  "/documentation/docs/high-level-architecture/modes-of-operation/laboratory-397": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-high-level-architecture-modes-of-operation-laboratoryd-51-267"
+  "/docs/tools/intro-511": {
+    "__comp": "17896441",
+    "content": "7a39e714"
   },
-  "/documentation/docs/high-level-architecture/modes-of-operation/safe-29b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-high-level-architecture-modes-of-operation-safe-69-d-86a"
-  },
-  "/documentation/docs/high-level-architecture/services-073": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-high-level-architecture-services-131-bb9"
-  },
-  "/documentation/docs/intro-9e8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-intro-0-e-3-1d3"
-  },
-  "/documentation/docs/low-level-architecture/bsp-759": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-low-level-architecture-bsp-49-b-001"
-  },
-  "/documentation/docs/low-level-architecture/config-5d3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-low-level-architecture-config-4-a-2-d47"
-  },
-  "/documentation/docs/low-level-architecture/hal-ece": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-low-level-architecture-hal-942-c22"
-  },
-  "/documentation/docs/low-level-architecture/intro-72d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-low-level-architecture-intro-1-e-4-92e"
-  },
-  "/documentation/docs/low-level-architecture/middleware-d87": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-low-level-architecture-middleware-780-3fd"
-  },
-  "/documentation/docs/low-level-architecture/svd-5a0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-low-level-architecture-svdf-7-f-e69"
-  },
-  "/documentation/docs/supported-boards/intro-09d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-supported-boards-intro-4-fb-726"
-  },
-  "/documentation/docs/tools/intro-368": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tools-intro-7-a-3-d18"
-  },
-  "/documentation/docs/tools/project-configurator-e6e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-tools-project-configurator-64-b-e15"
-  },
-  "/documentation/-e4b": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
-    "__context": {
-      "plugin": "plugin---documentation-markdown-page-350-40c"
-    },
-    "config": "config---documentation-my-react-page-5-e-9-b5b"
+  "/docs/tools/project-configurator-c0d": {
+    "__comp": "17896441",
+    "content": "64bb6436"
   }
 }

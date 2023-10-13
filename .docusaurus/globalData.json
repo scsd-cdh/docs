@@ -1,168 +1,168 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/documentation/docs",
+      "path": "/docs/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/documentation/docs",
-          "mainDocId": "intro",
+          "path": "/docs/",
+          "mainDocId": "getting-started/ide",
           "docs": [
             {
               "id": "getting-started/alire",
-              "path": "/documentation/docs/getting-started/alire",
+              "path": "/docs/getting-started/alire",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "getting-started/ide",
-              "path": "/documentation/docs/getting-started/ide",
+              "path": "/docs/getting-started/ide",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "getting-started/renode",
-              "path": "/documentation/docs/getting-started/renode",
+              "path": "/docs/getting-started/renode",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "high-level-architecture/file-structure",
-              "path": "/documentation/docs/high-level-architecture/file-structure",
+              "path": "/docs/high-level-architecture/file-structure",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "high-level-architecture/intro",
-              "path": "/documentation/docs/high-level-architecture/intro",
+              "path": "/docs/high-level-architecture/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "high-level-architecture/messaging",
-              "path": "/documentation/docs/high-level-architecture/messaging",
+              "path": "/docs/high-level-architecture/messaging",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "high-level-architecture/modes-of-operation/beaconing",
-              "path": "/documentation/docs/high-level-architecture/modes-of-operation/beaconing",
+              "path": "/docs/high-level-architecture/modes-of-operation/beaconing",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "high-level-architecture/modes-of-operation/communications",
-              "path": "/documentation/docs/high-level-architecture/modes-of-operation/communications",
+              "path": "/docs/high-level-architecture/modes-of-operation/communications",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "high-level-architecture/modes-of-operation/detumble",
-              "path": "/documentation/docs/high-level-architecture/modes-of-operation/detumble",
+              "path": "/docs/high-level-architecture/modes-of-operation/detumble",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "high-level-architecture/modes-of-operation/idle",
-              "path": "/documentation/docs/high-level-architecture/modes-of-operation/idle",
+              "path": "/docs/high-level-architecture/modes-of-operation/idle",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "high-level-architecture/modes-of-operation/imaging",
-              "path": "/documentation/docs/high-level-architecture/modes-of-operation/imaging",
+              "path": "/docs/high-level-architecture/modes-of-operation/imaging",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "high-level-architecture/modes-of-operation/inference",
-              "path": "/documentation/docs/high-level-architecture/modes-of-operation/inference",
+              "path": "/docs/high-level-architecture/modes-of-operation/inference",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "high-level-architecture/modes-of-operation/laboratory",
-              "path": "/documentation/docs/high-level-architecture/modes-of-operation/laboratory",
+              "path": "/docs/high-level-architecture/modes-of-operation/laboratory",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "high-level-architecture/modes-of-operation/safe",
-              "path": "/documentation/docs/high-level-architecture/modes-of-operation/safe",
+              "path": "/docs/high-level-architecture/modes-of-operation/safe",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "high-level-architecture/services",
-              "path": "/documentation/docs/high-level-architecture/services",
+              "path": "/docs/high-level-architecture/services",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/documentation/docs/intro",
+              "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "low-level-architecture/bsp",
-              "path": "/documentation/docs/low-level-architecture/bsp",
+              "path": "/docs/low-level-architecture/bsp",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "low-level-architecture/config",
-              "path": "/documentation/docs/low-level-architecture/config",
+              "path": "/docs/low-level-architecture/config",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "low-level-architecture/hal",
-              "path": "/documentation/docs/low-level-architecture/hal",
+              "path": "/docs/low-level-architecture/hal",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "low-level-architecture/intro",
-              "path": "/documentation/docs/low-level-architecture/intro",
+              "path": "/docs/low-level-architecture/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "low-level-architecture/middleware",
-              "path": "/documentation/docs/low-level-architecture/middleware",
+              "path": "/docs/low-level-architecture/middleware",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "low-level-architecture/svd",
-              "path": "/documentation/docs/low-level-architecture/svd",
+              "path": "/docs/low-level-architecture/svd",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "supported-boards/intro",
-              "path": "/documentation/docs/supported-boards/intro",
+              "path": "/docs/supported-boards/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/intro",
-              "path": "/documentation/docs/tools/intro",
+              "path": "/docs/tools/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/project-configurator",
-              "path": "/documentation/docs/tools/project-configurator",
+              "path": "/docs/tools/project-configurator",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/getting-started",
-              "path": "/documentation/docs/category/getting-started",
+              "path": "/docs/category/getting-started",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/low-level-architecture",
-              "path": "/documentation/docs/category/low-level-architecture",
+              "path": "/docs/category/low-level-architecture",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/high-level-architecture",
-              "path": "/documentation/docs/category/high-level-architecture",
+              "path": "/docs/category/high-level-architecture",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/modes-of-operation",
-              "path": "/documentation/docs/category/modes-of-operation",
+              "path": "/docs/category/modes-of-operation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/supported-boards",
-              "path": "/documentation/docs/category/supported-boards",
+              "path": "/docs/category/supported-boards",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/astrocore-utilities",
-              "path": "/documentation/docs/category/astrocore-utilities",
+              "path": "/docs/category/astrocore-utilities",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -170,8 +170,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/documentation/docs/intro",
-                "label": "Introduction"
+                "path": "/docs/category/getting-started",
+                "label": "Getting Started"
               }
             }
           }

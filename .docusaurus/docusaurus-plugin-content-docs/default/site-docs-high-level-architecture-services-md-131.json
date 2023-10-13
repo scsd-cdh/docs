@@ -6,9 +6,9 @@
   "source": "@site/docs/high-level-architecture/services.md",
   "sourceDirName": "high-level-architecture",
   "slug": "/high-level-architecture/services",
-  "permalink": "/documentation/docs/high-level-architecture/services",
+  "permalink": "/docs/high-level-architecture/services",
   "draft": false,
-  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/services.md",
+  "editUrl": "https://github.com/scsd-cdh/docs/tree/main/docs/high-level-architecture/services.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/documentation/docs/high-level-architecture/intro"
+    "permalink": "/docs/high-level-architecture/intro"
   },
   "next": {
     "title": "Messaging",
-    "permalink": "/documentation/docs/high-level-architecture/messaging"
+    "permalink": "/docs/high-level-architecture/messaging"
   }
 }

@@ -6,9 +6,9 @@
   "source": "@site/docs/supported-boards/intro.md",
   "sourceDirName": "supported-boards",
   "slug": "/supported-boards/intro",
-  "permalink": "/documentation/docs/supported-boards/intro",
+  "permalink": "/docs/supported-boards/intro",
   "draft": false,
-  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/supported-boards/intro.md",
+  "editUrl": "https://github.com/scsd-cdh/docs/tree/main/docs/supported-boards/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Supported Boards",
-    "permalink": "/documentation/docs/category/supported-boards"
+    "permalink": "/docs/category/supported-boards"
   },
   "next": {
     "title": "AstroCore Utilities",
-    "permalink": "/documentation/docs/category/astrocore-utilities"
+    "permalink": "/docs/category/astrocore-utilities"
   }
 }

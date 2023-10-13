@@ -6,9 +6,9 @@
   "source": "@site/docs/low-level-architecture/intro.md",
   "sourceDirName": "low-level-architecture",
   "slug": "/low-level-architecture/intro",
-  "permalink": "/documentation/docs/low-level-architecture/intro",
+  "permalink": "/docs/low-level-architecture/intro",
   "draft": false,
-  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/intro.md",
+  "editUrl": "https://github.com/scsd-cdh/docs/tree/main/docs/low-level-architecture/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Low-Level Architecture",
-    "permalink": "/documentation/docs/category/low-level-architecture"
+    "permalink": "/docs/category/low-level-architecture"
   },
   "next": {
     "title": "Board Support Packages",
-    "permalink": "/documentation/docs/low-level-architecture/bsp"
+    "permalink": "/docs/low-level-architecture/bsp"
   }
 }

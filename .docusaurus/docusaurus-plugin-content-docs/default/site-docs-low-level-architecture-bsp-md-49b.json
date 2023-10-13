@@ -6,9 +6,9 @@
   "source": "@site/docs/low-level-architecture/bsp.md",
   "sourceDirName": "low-level-architecture",
   "slug": "/low-level-architecture/bsp",
-  "permalink": "/documentation/docs/low-level-architecture/bsp",
+  "permalink": "/docs/low-level-architecture/bsp",
   "draft": false,
-  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/bsp.md",
+  "editUrl": "https://github.com/scsd-cdh/docs/tree/main/docs/low-level-architecture/bsp.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/documentation/docs/low-level-architecture/intro"
+    "permalink": "/docs/low-level-architecture/intro"
   },
   "next": {
     "title": "Hardware Abstraction Layer",
-    "permalink": "/documentation/docs/low-level-architecture/hal"
+    "permalink": "/docs/low-level-architecture/hal"
   }
 }

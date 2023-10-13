@@ -6,9 +6,9 @@
   "source": "@site/docs/getting-started/renode.mdx",
   "sourceDirName": "getting-started",
   "slug": "/getting-started/renode",
-  "permalink": "/documentation/docs/getting-started/renode",
+  "permalink": "/docs/getting-started/renode",
   "draft": false,
-  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/getting-started/renode.mdx",
+  "editUrl": "https://github.com/scsd-cdh/docs/tree/main/docs/getting-started/renode.mdx",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Alire",
-    "permalink": "/documentation/docs/getting-started/alire"
+    "permalink": "/docs/getting-started/alire"
   },
   "next": {
     "title": "Low-Level Architecture",
-    "permalink": "/documentation/docs/category/low-level-architecture"
+    "permalink": "/docs/category/low-level-architecture"
   }
 }

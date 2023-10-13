@@ -1,0 +1,15 @@
+{
+  "title": "Modes of Operation",
+  "slug": "/category/modes-of-operation",
+  "permalink": "/docs/docs/category/modes-of-operation",
+  "navigation": {
+    "previous": {
+      "title": "File Structure",
+      "permalink": "/docs/docs/high-level-architecture/file-structure"
+    },
+    "next": {
+      "title": "Safe",
+      "permalink": "/docs/docs/high-level-architecture/modes-of-operation/safe"
+    }
+  }
+}

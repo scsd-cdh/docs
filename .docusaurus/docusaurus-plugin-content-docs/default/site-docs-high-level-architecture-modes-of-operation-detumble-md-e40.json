@@ -6,9 +6,9 @@
   "source": "@site/docs/high-level-architecture/modes-of-operation/detumble.md",
   "sourceDirName": "high-level-architecture/modes-of-operation",
   "slug": "/high-level-architecture/modes-of-operation/detumble",
-  "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/detumble",
+  "permalink": "/docs/high-level-architecture/modes-of-operation/detumble",
   "draft": false,
-  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/modes-of-operation/detumble.md",
+  "editUrl": "https://github.com/scsd-cdh/docs/tree/main/docs/high-level-architecture/modes-of-operation/detumble.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Idle",
-    "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/idle"
+    "permalink": "/docs/high-level-architecture/modes-of-operation/idle"
   },
   "next": {
     "title": "Beaconing",
-    "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/beaconing"
+    "permalink": "/docs/high-level-architecture/modes-of-operation/beaconing"
   }
 }

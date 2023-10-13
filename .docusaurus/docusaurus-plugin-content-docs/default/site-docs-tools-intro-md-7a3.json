@@ -6,9 +6,9 @@
   "source": "@site/docs/tools/intro.md",
   "sourceDirName": "tools",
   "slug": "/tools/intro",
-  "permalink": "/documentation/docs/tools/intro",
+  "permalink": "/docs/tools/intro",
   "draft": false,
-  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/tools/intro.md",
+  "editUrl": "https://github.com/scsd-cdh/docs/tree/main/docs/tools/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "AstroCore Utilities",
-    "permalink": "/documentation/docs/category/astrocore-utilities"
+    "permalink": "/docs/category/astrocore-utilities"
   },
   "next": {
     "title": "AstroCore Project Configuration Tool",
-    "permalink": "/documentation/docs/tools/project-configurator"
+    "permalink": "/docs/tools/project-configurator"
   }
 }

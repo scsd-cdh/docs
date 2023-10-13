@@ -6,9 +6,9 @@
   "source": "@site/docs/low-level-architecture/config.md",
   "sourceDirName": "low-level-architecture",
   "slug": "/low-level-architecture/config",
-  "permalink": "/documentation/docs/low-level-architecture/config",
+  "permalink": "/docs/low-level-architecture/config",
   "draft": false,
-  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/config.md",
+  "editUrl": "https://github.com/scsd-cdh/docs/tree/main/docs/low-level-architecture/config.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "SVD Bindings",
-    "permalink": "/documentation/docs/low-level-architecture/svd"
+    "permalink": "/docs/low-level-architecture/svd"
   },
   "next": {
     "title": "Middleware",
-    "permalink": "/documentation/docs/low-level-architecture/middleware"
+    "permalink": "/docs/low-level-architecture/middleware"
   }
 }

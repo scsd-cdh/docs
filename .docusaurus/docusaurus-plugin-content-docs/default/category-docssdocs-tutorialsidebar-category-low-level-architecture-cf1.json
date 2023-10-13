@@ -1,0 +1,15 @@
+{
+  "title": "Low-Level Architecture",
+  "slug": "/category/low-level-architecture",
+  "permalink": "/docss/docs/category/low-level-architecture",
+  "navigation": {
+    "previous": {
+      "title": "Renode",
+      "permalink": "/docss/docs/getting-started/renode"
+    },
+    "next": {
+      "title": "Introduction",
+      "permalink": "/docss/docs/low-level-architecture/intro"
+    }
+  }
+}

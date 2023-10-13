@@ -1,6 +1,6 @@
 {
-  "permalink": "/documentation/blog/welcome",
-  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/blog/2021-08-26-welcome/index.md",
+  "permalink": "/docs/blog/welcome",
+  "editUrl": "https://github.com/scsd-cdh/docs/tree/main/blog/2021-08-26-welcome/index.md",
   "source": "@site/blog/2021-08-26-welcome/index.md",
   "title": "Welcome",
   "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -9,15 +9,15 @@
   "tags": [
     {
       "label": "facebook",
-      "permalink": "/documentation/blog/tags/facebook"
+      "permalink": "/docs/blog/tags/facebook"
     },
     {
       "label": "hello",
-      "permalink": "/documentation/blog/tags/hello"
+      "permalink": "/docs/blog/tags/hello"
     },
     {
       "label": "docusaurus",
-      "permalink": "/documentation/blog/tags/docusaurus"
+      "permalink": "/docs/blog/tags/docusaurus"
     }
   ],
   "readingTime": 0.405,
@@ -53,6 +53,6 @@
   },
   "nextItem": {
     "title": "MDX Blog Post",
-    "permalink": "/documentation/blog/mdx-blog-post"
+    "permalink": "/docs/blog/mdx-blog-post"
   }
 }

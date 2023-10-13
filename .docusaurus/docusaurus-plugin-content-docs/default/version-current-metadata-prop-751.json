@@ -10,12 +10,6 @@
   "docsSidebars": {
     "tutorialSidebar": [
       {
-        "type": "link",
-        "label": "Introduction",
-        "href": "/documentation/docs/intro",
-        "docId": "intro"
-      },
-      {
         "type": "category",
         "label": "Getting Started",
         "collapsible": true,
@@ -24,23 +18,23 @@
           {
             "type": "link",
             "label": "IDE",
-            "href": "/documentation/docs/getting-started/ide",
+            "href": "/docs/getting-started/ide",
             "docId": "getting-started/ide"
           },
           {
             "type": "link",
             "label": "Alire",
-            "href": "/documentation/docs/getting-started/alire",
+            "href": "/docs/getting-started/alire",
             "docId": "getting-started/alire"
           },
           {
             "type": "link",
             "label": "Renode",
-            "href": "/documentation/docs/getting-started/renode",
+            "href": "/docs/getting-started/renode",
             "docId": "getting-started/renode"
           }
         ],
-        "href": "/documentation/docs/category/getting-started"
+        "href": "/docs/category/getting-started"
       },
       {
         "type": "category",
@@ -51,41 +45,41 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/documentation/docs/low-level-architecture/intro",
+            "href": "/docs/low-level-architecture/intro",
             "docId": "low-level-architecture/intro"
           },
           {
             "type": "link",
             "label": "Board Support Packages",
-            "href": "/documentation/docs/low-level-architecture/bsp",
+            "href": "/docs/low-level-architecture/bsp",
             "docId": "low-level-architecture/bsp"
           },
           {
             "type": "link",
             "label": "Hardware Abstraction Layer",
-            "href": "/documentation/docs/low-level-architecture/hal",
+            "href": "/docs/low-level-architecture/hal",
             "docId": "low-level-architecture/hal"
           },
           {
             "type": "link",
             "label": "SVD Bindings",
-            "href": "/documentation/docs/low-level-architecture/svd",
+            "href": "/docs/low-level-architecture/svd",
             "docId": "low-level-architecture/svd"
           },
           {
             "type": "link",
             "label": "Configuration Crate",
-            "href": "/documentation/docs/low-level-architecture/config",
+            "href": "/docs/low-level-architecture/config",
             "docId": "low-level-architecture/config"
           },
           {
             "type": "link",
             "label": "Middleware",
-            "href": "/documentation/docs/low-level-architecture/middleware",
+            "href": "/docs/low-level-architecture/middleware",
             "docId": "low-level-architecture/middleware"
           }
         ],
-        "href": "/documentation/docs/category/low-level-architecture"
+        "href": "/docs/category/low-level-architecture"
       },
       {
         "type": "category",
@@ -96,25 +90,25 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/documentation/docs/high-level-architecture/intro",
+            "href": "/docs/high-level-architecture/intro",
             "docId": "high-level-architecture/intro"
           },
           {
             "type": "link",
             "label": "Services",
-            "href": "/documentation/docs/high-level-architecture/services",
+            "href": "/docs/high-level-architecture/services",
             "docId": "high-level-architecture/services"
           },
           {
             "type": "link",
             "label": "Messaging",
-            "href": "/documentation/docs/high-level-architecture/messaging",
+            "href": "/docs/high-level-architecture/messaging",
             "docId": "high-level-architecture/messaging"
           },
           {
             "type": "link",
             "label": "File Structure",
-            "href": "/documentation/docs/high-level-architecture/file-structure",
+            "href": "/docs/high-level-architecture/file-structure",
             "docId": "high-level-architecture/file-structure"
           },
           {
@@ -126,56 +120,56 @@
               {
                 "type": "link",
                 "label": "Safe",
-                "href": "/documentation/docs/high-level-architecture/modes-of-operation/safe",
+                "href": "/docs/high-level-architecture/modes-of-operation/safe",
                 "docId": "high-level-architecture/modes-of-operation/safe"
               },
               {
                 "type": "link",
                 "label": "Idle",
-                "href": "/documentation/docs/high-level-architecture/modes-of-operation/idle",
+                "href": "/docs/high-level-architecture/modes-of-operation/idle",
                 "docId": "high-level-architecture/modes-of-operation/idle"
               },
               {
                 "type": "link",
                 "label": "Detumbling",
-                "href": "/documentation/docs/high-level-architecture/modes-of-operation/detumble",
+                "href": "/docs/high-level-architecture/modes-of-operation/detumble",
                 "docId": "high-level-architecture/modes-of-operation/detumble"
               },
               {
                 "type": "link",
                 "label": "Beaconing",
-                "href": "/documentation/docs/high-level-architecture/modes-of-operation/beaconing",
+                "href": "/docs/high-level-architecture/modes-of-operation/beaconing",
                 "docId": "high-level-architecture/modes-of-operation/beaconing"
               },
               {
                 "type": "link",
                 "label": "Communications",
-                "href": "/documentation/docs/high-level-architecture/modes-of-operation/communications",
+                "href": "/docs/high-level-architecture/modes-of-operation/communications",
                 "docId": "high-level-architecture/modes-of-operation/communications"
               },
               {
                 "type": "link",
                 "label": "Imaging",
-                "href": "/documentation/docs/high-level-architecture/modes-of-operation/imaging",
+                "href": "/docs/high-level-architecture/modes-of-operation/imaging",
                 "docId": "high-level-architecture/modes-of-operation/imaging"
               },
               {
                 "type": "link",
                 "label": "Inference",
-                "href": "/documentation/docs/high-level-architecture/modes-of-operation/inference",
+                "href": "/docs/high-level-architecture/modes-of-operation/inference",
                 "docId": "high-level-architecture/modes-of-operation/inference"
               },
               {
                 "type": "link",
                 "label": "Laboratory",
-                "href": "/documentation/docs/high-level-architecture/modes-of-operation/laboratory",
+                "href": "/docs/high-level-architecture/modes-of-operation/laboratory",
                 "docId": "high-level-architecture/modes-of-operation/laboratory"
               }
             ],
-            "href": "/documentation/docs/category/modes-of-operation"
+            "href": "/docs/category/modes-of-operation"
           }
         ],
-        "href": "/documentation/docs/category/high-level-architecture"
+        "href": "/docs/category/high-level-architecture"
       },
       {
         "type": "category",
@@ -186,11 +180,11 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/documentation/docs/supported-boards/intro",
+            "href": "/docs/supported-boards/intro",
             "docId": "supported-boards/intro"
           }
         ],
-        "href": "/documentation/docs/category/supported-boards"
+        "href": "/docs/category/supported-boards"
       },
       {
         "type": "category",
@@ -204,17 +198,23 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/documentation/docs/tools/intro",
+            "href": "/docs/tools/intro",
             "docId": "tools/intro"
           },
           {
             "type": "link",
             "label": "AstroCore Project Configuration Tool",
-            "href": "/documentation/docs/tools/project-configurator",
+            "href": "/docs/tools/project-configurator",
             "docId": "tools/project-configurator"
           }
         ],
-        "href": "/documentation/docs/category/astrocore-utilities"
+        "href": "/docs/category/astrocore-utilities"
+      },
+      {
+        "type": "link",
+        "label": "SCSD Documentation",
+        "href": "/docs/intro",
+        "docId": "intro"
       }
     ]
   },
@@ -311,8 +311,8 @@
     },
     "intro": {
       "id": "intro",
-      "title": "Introduction",
-      "description": "This documentation section will serve to explain the following:",
+      "title": "SCSD Documentation",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "low-level-architecture/bsp": {

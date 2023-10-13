@@ -42,11 +42,9 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl: `https://github.com/${organizationName}/${projectName}/tree/main/`,
+          routeBasePath: "/", // Serve the docs at the site's root,
         },
-        blog: {
-          showReadingTime: true,
-          editUrl: `https://github.com/${organizationName}/${projectName}/tree/main/`,
-        },
+        blog: false,
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
@@ -66,13 +64,6 @@ const config = {
           src: "img/logo.png",
         },
         items: [
-          {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
-            position: "left",
-            label: "Docs",
-          },
-          { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/scsd-cdh",
             label: "GitHub",

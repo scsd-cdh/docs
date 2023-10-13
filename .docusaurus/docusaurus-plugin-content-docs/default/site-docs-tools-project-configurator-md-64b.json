@@ -6,9 +6,9 @@
   "source": "@site/docs/tools/project-configurator.md",
   "sourceDirName": "tools",
   "slug": "/tools/project-configurator",
-  "permalink": "/documentation/docs/tools/project-configurator",
+  "permalink": "/docs/tools/project-configurator",
   "draft": false,
-  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/tools/project-configurator.md",
+  "editUrl": "https://github.com/scsd-cdh/docs/tree/main/docs/tools/project-configurator.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -18,6 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/documentation/docs/tools/intro"
+    "permalink": "/docs/tools/intro"
+  },
+  "next": {
+    "title": "SCSD Documentation",
+    "permalink": "/docs/intro"
   }
 }

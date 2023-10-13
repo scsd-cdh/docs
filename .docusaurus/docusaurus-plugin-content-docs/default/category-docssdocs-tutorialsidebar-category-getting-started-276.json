@@ -1,0 +1,11 @@
+{
+  "title": "Getting Started",
+  "slug": "/category/getting-started",
+  "permalink": "/docss/docs/category/getting-started",
+  "navigation": {
+    "next": {
+      "title": "IDE",
+      "permalink": "/docss/docs/getting-started/ide"
+    }
+  }
+}

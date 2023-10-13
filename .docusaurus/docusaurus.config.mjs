@@ -8,9 +8,9 @@ export default {
   "tagline": "Crafting software for CubeSat missions 🛰️",
   "favicon": "img/logo.png",
   "url": "https://scsd-cdh.github.io",
-  "baseUrl": "/documentation/",
+  "baseUrl": "/docs/",
   "organizationName": "scsd-cdh",
-  "projectName": "documentation",
+  "projectName": "docs",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -26,15 +26,13 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/malek/Documents/prog/documentation/sidebars.js",
-          "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/"
+          "sidebarPath": "/home/thomas/Repos/scsd-cdh/docs/sidebars.js",
+          "editUrl": "https://github.com/scsd-cdh/docs/tree/main/",
+          "routeBasePath": "/"
         },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/"
-        },
+        "blog": false,
         "theme": {
-          "customCss": "/Users/malek/Documents/prog/documentation/src/css/custom.css"
+          "customCss": "/home/thomas/Repos/scsd-cdh/docs/src/css/custom.css"
         }
       }
     ]
@@ -48,17 +46,6 @@ export default {
         "src": "img/logo.png"
       },
       "items": [
-        {
-          "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
-          "position": "left",
-          "label": "Docs"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
         {
           "href": "https://github.com/scsd-cdh",
           "label": "GitHub",

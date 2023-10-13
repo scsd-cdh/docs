@@ -1,24 +1,20 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "Introduction",
-  "description": "This documentation section will serve to explain the following:",
+  "title": "SCSD Documentation",
+  "description": "",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/documentation/docs/intro",
+  "permalink": "/docs/intro",
   "draft": false,
-  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/intro.md",
+  "editUrl": "https://github.com/scsd-cdh/docs/tree/main/docs/intro.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
-  "frontMatter": {
-    "sidebar_position": 1,
-    "sidebar_label": "Introduction"
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
-  "next": {
-    "title": "Getting Started",
-    "permalink": "/documentation/docs/category/getting-started"
+  "previous": {
+    "title": "AstroCore Project Configuration Tool",
+    "permalink": "/docs/tools/project-configurator"
   }
 }

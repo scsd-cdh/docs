@@ -6,9 +6,9 @@
   "source": "@site/docs/high-level-architecture/modes-of-operation/laboratory.md",
   "sourceDirName": "high-level-architecture/modes-of-operation",
   "slug": "/high-level-architecture/modes-of-operation/laboratory",
-  "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/laboratory",
+  "permalink": "/docs/high-level-architecture/modes-of-operation/laboratory",
   "draft": false,
-  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/modes-of-operation/laboratory.md",
+  "editUrl": "https://github.com/scsd-cdh/docs/tree/main/docs/high-level-architecture/modes-of-operation/laboratory.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 8,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Inference",
-    "permalink": "/documentation/docs/high-level-architecture/modes-of-operation/inference"
+    "permalink": "/docs/high-level-architecture/modes-of-operation/inference"
   },
   "next": {
     "title": "Supported Boards",
-    "permalink": "/documentation/docs/category/supported-boards"
+    "permalink": "/docs/category/supported-boards"
   }
 }

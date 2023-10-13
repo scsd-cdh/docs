@@ -6,9 +6,9 @@
   "source": "@site/docs/low-level-architecture/hal.md",
   "sourceDirName": "low-level-architecture",
   "slug": "/low-level-architecture/hal",
-  "permalink": "/documentation/docs/low-level-architecture/hal",
+  "permalink": "/docs/low-level-architecture/hal",
   "draft": false,
-  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/hal.md",
+  "editUrl": "https://github.com/scsd-cdh/docs/tree/main/docs/low-level-architecture/hal.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Board Support Packages",
-    "permalink": "/documentation/docs/low-level-architecture/bsp"
+    "permalink": "/docs/low-level-architecture/bsp"
   },
   "next": {
     "title": "SVD Bindings",
-    "permalink": "/documentation/docs/low-level-architecture/svd"
+    "permalink": "/docs/low-level-architecture/svd"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "permalink": "/documentation/blog/mdx-blog-post",
-  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/blog/2021-08-01-mdx-blog-post.mdx",
+  "permalink": "/docs/blog/mdx-blog-post",
+  "editUrl": "https://github.com/scsd-cdh/docs/tree/main/blog/2021-08-01-mdx-blog-post.mdx",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
   "title": "MDX Blog Post",
   "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -9,7 +9,7 @@
   "tags": [
     {
       "label": "docusaurus",
-      "permalink": "/documentation/blog/tags/docusaurus"
+      "permalink": "/docs/blog/tags/docusaurus"
     }
   ],
   "readingTime": 0.175,
@@ -35,10 +35,10 @@
   },
   "prevItem": {
     "title": "Welcome",
-    "permalink": "/documentation/blog/welcome"
+    "permalink": "/docs/blog/welcome"
   },
   "nextItem": {
     "title": "Long Blog Post",
-    "permalink": "/documentation/blog/long-blog-post"
+    "permalink": "/docs/blog/long-blog-post"
   }
 }

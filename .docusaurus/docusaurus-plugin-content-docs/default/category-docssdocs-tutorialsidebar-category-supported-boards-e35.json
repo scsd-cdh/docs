@@ -1,0 +1,15 @@
+{
+  "title": "Supported Boards",
+  "slug": "/category/supported-boards",
+  "permalink": "/docss/docs/category/supported-boards",
+  "navigation": {
+    "previous": {
+      "title": "Laboratory",
+      "permalink": "/docss/docs/high-level-architecture/modes-of-operation/laboratory"
+    },
+    "next": {
+      "title": "Introduction",
+      "permalink": "/docss/docs/supported-boards/intro"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "High-Level Architecture",
+  "slug": "/category/high-level-architecture",
+  "permalink": "/docss/docs/category/high-level-architecture",
+  "navigation": {
+    "previous": {
+      "title": "Middleware",
+      "permalink": "/docss/docs/low-level-architecture/middleware"
+    },
+    "next": {
+      "title": "Introduction",
+      "permalink": "/docss/docs/high-level-architecture/intro"
+    }
+  }
+}

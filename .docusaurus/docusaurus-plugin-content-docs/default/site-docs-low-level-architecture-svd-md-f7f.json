@@ -6,9 +6,9 @@
   "source": "@site/docs/low-level-architecture/svd.md",
   "sourceDirName": "low-level-architecture",
   "slug": "/low-level-architecture/svd",
-  "permalink": "/documentation/docs/low-level-architecture/svd",
+  "permalink": "/docs/low-level-architecture/svd",
   "draft": false,
-  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/low-level-architecture/svd.md",
+  "editUrl": "https://github.com/scsd-cdh/docs/tree/main/docs/low-level-architecture/svd.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Hardware Abstraction Layer",
-    "permalink": "/documentation/docs/low-level-architecture/hal"
+    "permalink": "/docs/low-level-architecture/hal"
   },
   "next": {
     "title": "Configuration Crate",
-    "permalink": "/documentation/docs/low-level-architecture/config"
+    "permalink": "/docs/low-level-architecture/config"
   }
 }

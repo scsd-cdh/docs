@@ -6,9 +6,9 @@
   "source": "@site/docs/high-level-architecture/intro.md",
   "sourceDirName": "high-level-architecture",
   "slug": "/high-level-architecture/intro",
-  "permalink": "/documentation/docs/high-level-architecture/intro",
+  "permalink": "/docs/high-level-architecture/intro",
   "draft": false,
-  "editUrl": "https://github.com/scsd-cdh/documentation/tree/main/docs/high-level-architecture/intro.md",
+  "editUrl": "https://github.com/scsd-cdh/docs/tree/main/docs/high-level-architecture/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -20,10 +20,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "High-Level Architecture",
-    "permalink": "/documentation/docs/category/high-level-architecture"
+    "permalink": "/docs/category/high-level-architecture"
   },
   "next": {
     "title": "Services",
-    "permalink": "/documentation/docs/high-level-architecture/services"
+    "permalink": "/docs/high-level-architecture/services"
   }
 }
